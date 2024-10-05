@@ -1,41 +1,30 @@
-ALGORITHM NaiveJaccardSimilarity
-    INPUT: text1, text2 (two strings representing the texts)
-    OUTPUT: similarity (a float representing the Jaccard similarity)
+NAIVE_JACCARD_SIMILARITY(text1, text2)
+    words1 ← SPLIT(LOWERCASE(text1))
+    words2 ← SPLIT(LOWERCASE(text2))
 
-BEGIN
-    // Step 1: Tokenize the input texts into sets of words
-    words1 ← SPLIT(text1)           // O(n)
-    words2 ← SPLIT(text2)           // O(m)
+    set1 ← SET(words1)
+    set2 ← SET(words2)
 
-    set1 ← TO_SET(words1)           // O(n)
-    set2 ← TO_SET(words2)           // O(m)
+    intersection_count ← 0
 
-    // Step 2: Initialize intersection count
-    intersectionCount ← 0            // O(1)
-
-    // Step 3: Calculate intersection using nested loops
-    FOR each word IN set1 DO         // O(n)
-        FOR each compare_word IN set2 DO // O(m)
-            IF word = compare_word THEN // O(1)
-                intersectionCount ← intersectionCount + 1 // O(1)
+    FOR word IN set1 DO
+        FOR compare_word IN set2 DO
+            IF word = compare_word THEN
+                intersection_count ← intersection_count + 1
             END IF
         END FOR
     END FOR
 
-    // Step 4: Calculate union size
-    unionCount ← LENGTH(set1) + LENGTH(set2) // O(1)
-    FOR each word IN set1 DO         // O(n)
-        IF word IN set2 THEN         // O(m)
-            unionCount ← unionCount - 1 // O(1)
+    union_count ← SIZE(set1) + SIZE(set2)
+
+    FOR word IN set1 DO
+        IF word ∈ set2 THEN
+            union_count ← union_count - 1
         END IF
     END FOR
 
-    // Step 5: Calculate and return Jaccard similarity
-    IF unionCount = 0 THEN           // O(1)
+    IF union_count = 0 THEN
         RETURN 0.0
     END IF
 
-    similarity ← intersectionCount / unionCount // O(1)
-    RETURN similarity
-END ALGORITHM
-
+    RETURN intersection_count / union_count
