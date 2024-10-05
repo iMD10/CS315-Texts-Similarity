@@ -20,4 +20,4 @@ Time Complexity
 	4.	Union Count: O(s1).
 
 Total Time Complexity:
- O(n + m + s1 \cdot s2) 
+ O(n + m + s1 * s2) 
