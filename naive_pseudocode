@@ -1,13 +1,13 @@
-NAIVE_JACCARD_SIMILARITY(text1, text2)
+NAIVE_JACCARD_SIMILARITY(text1, text2) // Has time complexity of O(n+m)
     words1 ← SPLIT(LOWERCASE(text1))
     words2 ← SPLIT(LOWERCASE(text2))
 
-    set1 ← SET(words1)
+    set1 ← SET(words1) 
     set2 ← SET(words2)
 
     intersection_count ← 0
 
-    FOR word IN set1 DO
+    FOR word IN set1 DO    
         FOR compare_word IN set2 DO
             IF word = compare_word THEN
                 intersection_count ← intersection_count + 1
@@ -23,7 +23,7 @@ NAIVE_JACCARD_SIMILARITY(text1, text2)
         END IF
     END FOR
 
-    IF union_count = 0 THEN
+    IF union_count = 0 THEN    //To avoid dividing by zero
         RETURN 0.0
     END IF
 
