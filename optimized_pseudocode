@@ -1,51 +1,38 @@
-ALGORITHM OptimizedJaccardSimilarity
-    INPUT: text1, text2 (two strings representing the texts)
-    OUTPUT: similarity (a float representing the Jaccard similarity)
+OPTIMIZED_JACCARD_SIMILARITY(text1, text2)
+    words1 ← SPLIT(LOWERCASE(text1))
+    words2 ← SPLIT(LOWERCASE(text2))
 
-BEGIN
-    // Step 1: Tokenize the input texts into lists of words
-    words1 ← SPLIT(text1)           // O(n)
-    words2 ← SPLIT(text2)           // O(m)
+    word_count1 ← DICTIONARY()
+    word_count2 ← DICTIONARY()
 
-    // Step 2: Initialize word count dictionaries
-    wordCount1 ← EMPTY_DICTIONARY() // O(1)
-    wordCount2 ← EMPTY_DICTIONARY() // O(1)
-
-    // Step 3: Count occurrences of words in text1
-    FOR each word IN words1 DO      // O(n)
-        IF wordCount1 CONTAINS word THEN // O(1)
-            wordCount1[word] ← wordCount1[word] + 1 // O(1)
+    FOR word IN words1 DO
+        IF word ∈ word_count1 THEN
+            word_count1[word] ← word_count1[word] + 1
         ELSE
-            wordCount1[word] ← 1     // O(1)
+            word_count1[word] ← 1
         END IF
     END FOR
 
-    // Step 4: Count occurrences of words in text2
-    FOR each word IN words2 DO      // O(m)
-        IF wordCount2 CONTAINS word THEN // O(1)
-            wordCount2[word] ← wordCount2[word] + 1 // O(1)
+    FOR word IN words2 DO
+        IF word ∈ word_count2 THEN
+            word_count2[word] ← word_count2[word] + 1
         ELSE
-            wordCount2[word] ← 1     // O(1)
+            word_count2[word] ← 1
         END IF
     END FOR
 
-    // Step 5: Calculate intersection and union sizes
-    intersectionCount ← 0            // O(1)
-    unionCount ← LENGTH(wordCount1) + LENGTH(wordCount2) // O(1)
+    intersection_count ← 0
+    union_count ← SIZE(word_count1) + SIZE(word_count2)
 
-    FOR each word IN wordCount1 DO    // O(n)
-        IF word IN wordCount2 THEN    // O(1)
-            intersectionCount ← intersectionCount + 1 // O(1)
-            unionCount ← unionCount - 1 // O(1)
+    FOR word IN word_count1 DO
+        IF word ∈ word_count2 THEN
+            intersection_count ← intersection_count + 1
+            union_count ← union_count - 1
         END IF
     END FOR
 
-    // Step 6: Calculate and return Jaccard similarity
-    IF unionCount = 0 THEN            // O(1)
+    IF union_count = 0 THEN
         RETURN 0.0
     END IF
 
-    similarity ← intersectionCount / unionCount // O(1)
-    RETURN similarity
-END ALGORITHM
-
+    RETURN intersection_count / union_count
