@@ -18,9 +18,9 @@ To find the similarity between two texts using Jaccard Similarity, follow these 
 
 4. **Apply the Jaccard Formula**: The Jaccard Similarity coefficient `J(A, B)` is calculated using the formula:
 
-   \[
+   `
    J(A, B) = {|A ∩ B|}/{|A ∪ B|}
-   \]
+   `
 
    where:
    - `|A ∩ B|` is the number of common words (intersection).
