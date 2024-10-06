@@ -1,1 +1,1 @@
-# CS315_Texts_Similarity
+# CS315_Texts_Similarity_Project
