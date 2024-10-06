@@ -1,0 +1,57 @@
+NAIVE_JACCARD_SIMILARITY(text1, text2) // Time complexity: O(n * m)
+    words1 ← SPLIT(LOWERCASE(text1))
+    words2 ← SPLIT(LOWERCASE(text2))
+
+    intersection_count ← 0
+    union_count ← 0
+
+    // Create a boolean array for words2 to check existence
+    bool_array ← ARRAY[SIZE(words2)] initialized to FALSE
+
+    // Loop through words2 and mark them in the boolean array
+    FOR j FROM 0 TO SIZE(words2) - 1 DO
+        bool_array[j] ← TRUE
+    END FOR
+
+    // Calculate intersection and union counts
+    FOR i FROM 0 TO SIZE(words1) - 1 DO
+        found ← FALSE
+        
+        FOR j FROM 0 TO SIZE(words2) - 1 DO
+            IF words1[i] = words2[j] THEN
+                intersection_count ← intersection_count + 1
+                found ← TRUE
+                BREAK // No need to keep checking once a match is found
+            END IF
+        END FOR
+
+        // If the word from words1 was found in words2, it contributes to the union
+        IF found THEN
+            union_count ← union_count + 1 // Only count once for union
+        END IF
+    END FOR
+
+    // Add words from words2 that were not in words1 to the union count
+    FOR j FROM 0 TO SIZE(words2) - 1 DO
+        found ← FALSE
+        
+        FOR i FROM 0 TO SIZE(words1) - 1 DO
+            IF words2[j] = words1[i] THEN
+                found ← TRUE
+                BREAK // No need to keep checking once a match is found
+            END IF
+        END FOR
+
+        IF NOT found THEN
+            union_count ← union_count + 1 // Add to union only if not found
+        END IF
+    END FOR
+
+    // Calculate the total union count
+    union_count ← union_count + intersection_count // Account for intersection
+
+    IF union_count = 0 THEN    // To avoid dividing by zero
+        RETURN 0.0
+    END IF
+
+    RETURN intersection_count / union_count
