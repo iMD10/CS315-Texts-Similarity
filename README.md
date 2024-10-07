@@ -1,4 +1,3 @@
-
 # CS315 Algorithm Design and Analysis Project
 
 ## Project Title: Comparing Two Algorithms for Jaccard Similarity
@@ -14,9 +13,7 @@ The objective of this project is to implement two approaches to calculate the **
 
 ### What is Jaccard Similarity?
 Jaccard similarity is a measure used to compare the similarity between two sets. It is defined as the size of the intersection divided by the size of the union of the sets:
-\[
-J(A, B) = \frac{|A \cap B|}{|A \cup B|}
-\]
+J(A, B) = |A ∩ B| / |A ∪ B|
 Where:
 - \( A \) and \( B \) are two sets of words (i.e., tokens) extracted from the texts.
 
