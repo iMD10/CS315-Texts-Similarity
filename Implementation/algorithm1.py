@@ -34,7 +34,7 @@ def read_file(file_path):
         return file.read()
 
 
-text_a = read_file('sample_a.txt')
-text_b = read_file('sample_b.txt')
+text_a = read_file('Implementation/sample_a.txt')
+text_b = read_file('Implementation/sample_b.txt')
 similarity_naive = naive_jaccard_similarity(text_a, text_b)
 print(f"Naive Jaccard Similarity: {similarity_naive:.2f}")
