@@ -1,4 +1,4 @@
-# CS315_Texts_Similarity_Project
+
 # CS315 Algorithm Design and Analysis Project
 
 ## Project Title: Comparing Two Algorithms for Jaccard Similarity
