@@ -1,57 +1,75 @@
-NAIVE_JACCARD_SIMILARITY(text1, text2) // Time complexity: O(n * m)
-    words1 ← SPLIT(LOWERCASE(text1))
-    words2 ← SPLIT(LOWERCASE(text2))
+FUNCTION jaccard_similarity_naive(words1, words2)
+    // Initialize an empty list for the intersection of words
+    INITIALIZE intersection as an empty list  
+    
+    // Initialize an empty list for the union of words
+    INITIALIZE union as an empty list  
 
-    intersection_count ← 0
-    union_count ← 0
-
-    // Create a boolean array for words2 to check existence
-    bool_array ← ARRAY[SIZE(words2)] initialized to FALSE
-
-    // Loop through words2 and mark them in the boolean array
-    FOR j FROM 0 TO SIZE(words2) - 1 DO
-        bool_array[j] ← TRUE
-    END FOR
-
-    // Calculate intersection and union counts
-    FOR i FROM 0 TO SIZE(words1) - 1 DO
-        found ← FALSE
-        
-        FOR j FROM 0 TO SIZE(words2) - 1 DO
-            IF words1[i] = words2[j] THEN
-                intersection_count ← intersection_count + 1
-                found ← TRUE
-                BREAK // No need to keep checking once a match is found
-            END IF
+    // Iterate through each word in the first list
+    FOR each word IN words1 DO  
+        // Add the word to the union, ensuring uniqueness
+        INITIALIZE found as FALSE  // Track if the word is already in the union
+        FOR each item IN union DO  
+            IF item IS equal to word THEN  
+                SET found to TRUE  // Mark as found
+                BREAK  // Exit the loop since we found the word
+            ENDIF
         END FOR
-
-        // If the word from words1 was found in words2, it contributes to the union
-        IF found THEN
-            union_count ← union_count + 1 // Only count once for union
-        END IF
-    END FOR
-
-    // Add words from words2 that were not in words1 to the union count
-    FOR j FROM 0 TO SIZE(words2) - 1 DO
-        found ← FALSE
         
-        FOR i FROM 0 TO SIZE(words1) - 1 DO
-            IF words2[j] = words1[i] THEN
-                found ← TRUE
-                BREAK // No need to keep checking once a match is found
-            END IF
+        // If the word was not found in the union, add it
+        IF found IS FALSE THEN  
+            ADD word to union  
+        ENDIF
+        
+        // Check if the word is present in the second list
+        INITIALIZE presentInSecondList as FALSE  // Track presence in words2
+        FOR each item IN words2 DO  
+            IF item IS equal to word THEN  
+                SET presentInSecondList to TRUE  // Mark as present
+                BREAK  // Exit the loop since we found the word
+            ENDIF
         END FOR
-
-        IF NOT found THEN
-            union_count ← union_count + 1 // Add to union only if not found
-        END IF
+        
+        // If the word is present in the second list and not already in the intersection
+        INITIALIZE inIntersection as FALSE  // Track if the word is already in the intersection
+        FOR each item IN intersection DO  
+            IF item IS equal to word THEN  
+                SET inIntersection to TRUE  // Mark as in the intersection
+                BREAK  // Exit the loop since we found the word
+            ENDIF
+        END FOR
+        
+        // If the word is in the second list and not in the intersection, add it
+        IF presentInSecondList IS TRUE AND inIntersection IS FALSE THEN  
+            ADD word to intersection  
+        ENDIF
     END FOR
 
-    // Calculate the total union count
-    union_count ← union_count + intersection_count // Account for intersection
+    // Iterate through each word in the second list
+    FOR each word IN words2 DO  
+        // Add the word to the union, ensuring uniqueness
+        INITIALIZE found as FALSE  // Track if the word is already in the union
+        FOR each item IN union DO  
+            IF item IS equal to word THEN  
+                SET found to TRUE  // Mark as found
+                BREAK  // Exit the loop since we found the word
+            ENDIF
+        END FOR
+        
+        // If the word was not found in the union, add it
+        IF found IS FALSE THEN  
+            ADD word to union  
+        ENDIF
+    END FOR
 
-    IF union_count = 0 THEN    // To avoid dividing by zero
-        RETURN 0.0
-    END IF
+    // Calculate Jaccard similarity
+    IF LENGTH(union) IS greater than 0 THEN  
+        // Calculate similarity as the ratio of intersection size to union size
+        SET similarity = LENGTH(intersection) / LENGTH(union)  
+    ELSE  
+        // If the union is empty, set similarity to 0.0 to avoid division by zero
+        SET similarity = 0.0  
+    ENDIF
 
-    RETURN intersection_count / union_count
+    // Return the calculated similarity
+    RETURN similarity  
