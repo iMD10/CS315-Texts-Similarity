@@ -13,16 +13,16 @@ The objective of this project is to implement two approaches to calculate the **
 
 ### What is Jaccard Similarity?
 Jaccard similarity is a measure used to compare the similarity between two sets. It is defined as the size of the intersection divided by the size of the union of the sets:
-
+`
 J(A, B) = |A ∩ B| / |A ∪ B|
-
+`
 Where:
 - \( A \) and \( B \) are two sets of words (i.e., tokens) extracted from the texts.
 
 ### Algorithms
 1. **Naive Algorithm**:  
    - This algorithm directly computes the union and intersection of two sets of words.
-   - Time complexity: \(O(n^2)\), where \(n\) is the total number of unique words in both texts.
+   - Time complexity: \(O(n²)\), where \(n\) is the total number of unique words in both texts.
 
 2. **Optimized Algorithm**:  
    - The optimized approach uses more efficient data structures (e.g., hash sets) to reduce the time complexity.
