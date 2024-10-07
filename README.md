@@ -24,11 +24,11 @@ Where:
 ### Algorithms
 1. **Naive Algorithm**:  
    - This algorithm directly computes the union and intersection of two sets of words.
-   - Time complexity: \(O(n²)\), where \(n\) is the total number of unique words in both texts.
+   - Time complexity: \(O(n*m)\), where \(n\) is the number of words in text A and \(m\) is the number of words in text B.
 
 2. **Optimized Algorithm**:  
    - The optimized approach uses more efficient data structures (e.g., hash sets) to reduce the time complexity.
-   - Time complexity: \(O(n)\), where \(n\) is the number of words.
+   - Time complexity: \(O(n+m)\), where \(n\) is the number of words in text A and \(m\) is the number of words in text B.
 
 ### Inputs
 - Two texts (represented as strings or lists of words) for which the similarity is to be calculated.
@@ -43,9 +43,9 @@ Where:
 
 ### How to Run
 1. Clone the repository.
-2. Run `naive_jaccard.py` for the naive algorithm and `optimized_jaccard.py` for the optimized algorithm.
-3. Provide the input texts in the appropriate format.
-4. Compare the results and performance using sample data.
+2. Provide the input texts in the `sample_a.txt` and `sample_b.txt`.
+3. Run `algorithm1.py` for the naive algorithm and `algorithm2.py` for the optimized algorithm.
+4. Compare the results and performance using the provided sample data.
 
 ### Contributors
 - **Muhannad Majed Alfwazan**
