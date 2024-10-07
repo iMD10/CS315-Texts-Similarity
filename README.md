@@ -43,7 +43,7 @@ Where:
 
 ### How to Run
 1. Clone the repository.
-2. Provide the input texts in the `sample_a.txt` and `sample_b.txt`.
+2. Provide the input texts in `sample_a.txt` and `sample_b.txt`.
 3. Run `algorithm1.py` for the naive algorithm and `algorithm2.py` for the optimized algorithm.
 4. Compare the results and performance using the provided sample data.
 
