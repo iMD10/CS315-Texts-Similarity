@@ -39,7 +39,7 @@ Where:
 ### Goals and Learning Objectives
 - **Compare the time complexity** and **performance** of both algorithms.
 - **Analyze the trade-offs** between simplicity (naive approach) and efficiency (optimized approach).
-- **Gain practical experience** in implementing and analyzing algorithms in Python (or a similar programming language).
+- **Gain practical experience** in implementing and analyzing algorithms in Python.
 
 ### How to Run
 1. Clone the repository.
