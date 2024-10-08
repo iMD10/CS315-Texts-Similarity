@@ -1,4 +1,5 @@
 def optimized_jaccard_similarity(text1, text2):
+    import time
     # Tokenize the texts and convert to lowercase for case insensitivity
     words1 = text1.lower().split()
     words2 = text2.lower().split()
@@ -34,8 +35,7 @@ def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-
-text_a = read_file('sample_a.txt')
-text_b = read_file('sample_b.txt')
+text_a = read_file('Implementation/sample_a.txt')
+text_b = read_file('Implementation/sample_b.txt')
 similarity_optimized = optimized_jaccard_similarity(text_a, text_b)
 print(f"Optimized Jaccard Similarity: {similarity_optimized:.2f}")

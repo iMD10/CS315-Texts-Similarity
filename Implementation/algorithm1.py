@@ -6,21 +6,36 @@ def naive_jaccard_similarity(text1, text2):
     words2 = text2.lower().split()
 
     
-    set1 = set(words1)
-    set2 = set(words2)
+    union_list = []
+    union_count = 0
+    for word in words1:
+        flag_comp = True
+        for unique_word in union_list:
+            if word == unique_word:
+                flag_comp = False
+                break;
+        if flag_comp == True:
+            union_list.append(word)
+            union_count += 1
 
-     
     intersection_count = 0
-    for word in set1:                  
-        for compare_word in set2:      
+    for word in union_list:             
+        for compare_word in words2:      
             if word == compare_word:   
                 intersection_count += 1
+                break
+
+    for word in words2:
+        flag_comp = True
+        for unique_word in union_list:
+            if word == unique_word:
+                flag_comp = False
+                break;
+        if flag_comp == True:
+            union_list.append(word)
+            union_count += 1
                 
-    
-    union_count = len(set1) + len(set2)  
-    for word in set1:                  
-        if word in set2:              
-            union_count -= 1           
+
     
     
     if union_count == 0:               
