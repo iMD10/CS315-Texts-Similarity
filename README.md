@@ -1,3 +1,4 @@
+![https://en.ac-illust.com/clip-art/23851308/header-image-of-the-library-at-night_3]
 # CS315 Algorithm Design and Analysis Project
 
 ## Project Title: Comparing Two Algorithms for Jaccard Similarity
