@@ -59,8 +59,8 @@ def read_file(file_path): # To read from input from txt files
 text_a = read_file('Implementation/sample_a.txt') # This is text1
 text_b = read_file('Implementation/sample_b.txt') # This is text2
 start_time = time.time() # Just to save the starting time of algorithm execution
-similarity_naive = naive_jaccard_similarity(text_a, text_b)
+similarity_naive = naive_jaccard_similarity(text_a, text_b) * 100
 end_time = time.time()
 execution_time = end_time - start_time # Calculate the execution time
-print(f"Naive Jaccard Similarity: {similarity_naive:.2f}")
+print(f"Naive Jaccard Similarity: {similarity_naive:.4f}")
 print(f"Execution Time : {execution_time:.3f}")
