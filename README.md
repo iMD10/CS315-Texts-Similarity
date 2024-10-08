@@ -19,6 +19,8 @@ Jaccard similarity is a measure used to compare the similarity between two sets.
 J(A, B) = |A ∩ B| / |A ∪ B|
 `
 
+(https://iq.opengenus.org/content/images/2020/09/jaccard.png)
+
 Where:
 - \( A \) and \( B \) are two sets of words (i.e., tokens) extracted from the texts.
 
