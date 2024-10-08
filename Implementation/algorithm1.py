@@ -1,5 +1,6 @@
 # Naive algorithm
 # First Implementation
+import time
 def naive_jaccard_similarity(text1, text2):
     
     words1 = text1.lower().split()
@@ -51,5 +52,9 @@ def read_file(file_path):
 
 text_a = read_file('Implementation/sample_a.txt')
 text_b = read_file('Implementation/sample_b.txt')
+start_time = time.time()
 similarity_naive = naive_jaccard_similarity(text_a, text_b)
+end_time = time.time()
+execution_time = end_time - start_time
 print(f"Naive Jaccard Similarity: {similarity_naive:.2f}")
+print(f"Execution Time : {execution_time}")
