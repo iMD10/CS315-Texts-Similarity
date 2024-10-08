@@ -57,4 +57,4 @@ similarity_naive = naive_jaccard_similarity(text_a, text_b)
 end_time = time.time()
 execution_time = end_time - start_time
 print(f"Naive Jaccard Similarity: {similarity_naive:.2f}")
-print(f"Execution Time : {execution_time}")
+print(f"Execution Time : {execution_time:.3f}")
