@@ -63,7 +63,7 @@ def testJaccard(address1, address2, type):
     end_time = time.time()
     execution_time = end_time - start_time # Calculate the execution time
     print(f"Naive Jaccard Similarity for {type} samples: %{similarity_naive:.2f}")
-    print(f"Execution Time : {execution_time:.3f}")
+    print(f"Execution Time : {execution_time:.4f} seconds")
 
 # Testing for large samples
 testJaccard('Implementation/largeSample_a.txt', 'Implementation/largeSample_b.txt', "large")

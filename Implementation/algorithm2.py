@@ -44,8 +44,8 @@ def testJaccard(address1, address2, type):
     similarity_optimized = optimized_jaccard_similarity(text_a, text_b) * 100
     end_time = time.time()
     execution_time = end_time - start_time
-    print(f"Optimized Jaccard Similarity for {type} samples: %{similarity_optimized:.1f}")
-    print(f"Execution Time : {execution_time:.3f}")
+    print(f"Optimized Jaccard Similarity for {type} samples: %{similarity_optimized:.2f}")
+    print(f"Execution Time : {execution_time:.4f}")
 
 # Testing for large samples
 testJaccard('Implementation/largeSample_a.txt', 'Implementation/largeSample_b.txt', "large")
