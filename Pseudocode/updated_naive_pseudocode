@@ -1,75 +1,44 @@
-FUNCTION jaccard_similarity_naive(words1, words2)
-    // Initialize an empty list for the intersection of words
-    INITIALIZE intersection as an empty list  
-    
-    // Initialize an empty list for the union of words
-    INITIALIZE union as an empty list  
+words1 ← text1.lower().split()        // O(n) where n is the number of words in text1
+words2 ← text2.lower().split()        // O(m) where m is the number of words in text2
 
-    // Iterate through each word in the first list
-    FOR each word IN words1 DO  
-        // Add the word to the union, ensuring uniqueness
-        INITIALIZE found as FALSE  // Track if the word is already in the union
-        FOR each item IN union DO  
-            IF item IS equal to word THEN  
-                SET found to TRUE  // Mark as found
-                BREAK  // Exit the loop since we found the word
-            ENDIF
-        END FOR
-        
-        // If the word was not found in the union, add it
-        IF found IS FALSE THEN  
-            ADD word to union  
-        ENDIF
-        
-        // Check if the word is present in the second list
-        INITIALIZE presentInSecondList as FALSE  // Track presence in words2
-        FOR each item IN words2 DO  
-            IF item IS equal to word THEN  
-                SET presentInSecondList to TRUE  // Mark as present
-                BREAK  // Exit the loop since we found the word
-            ENDIF
-        END FOR
-        
-        // If the word is present in the second list and not already in the intersection
-        INITIALIZE inIntersection as FALSE  // Track if the word is already in the intersection
-        FOR each item IN intersection DO  
-            IF item IS equal to word THEN  
-                SET inIntersection to TRUE  // Mark as in the intersection
-                BREAK  // Exit the loop since we found the word
-            ENDIF
-        END FOR
-        
-        // If the word is in the second list and not in the intersection, add it
-        IF presentInSecondList IS TRUE AND inIntersection IS FALSE THEN  
-            ADD word to intersection  
-        ENDIF
-    END FOR
+union_list ← []                       // O(1) to initialize empty list
+union_count ← 0                       // O(1) to initialize count
 
-    // Iterate through each word in the second list
-    FOR each word IN words2 DO  
-        // Add the word to the union, ensuring uniqueness
-        INITIALIZE found as FALSE  // Track if the word is already in the union
-        FOR each item IN union DO  
-            IF item IS equal to word THEN  
-                SET found to TRUE  // Mark as found
-                BREAK  // Exit the loop since we found the word
-            ENDIF
-        END FOR
-        
-        // If the word was not found in the union, add it
-        IF found IS FALSE THEN  
-            ADD word to union  
-        ENDIF
-    END FOR
+for each word in words1 do            // O(n) outer loop over words in text1
+    flag_comp ← True                  // O(1) for each iteration
+    for each unique_word in union_list do  // O(k), where k is the size of union_list
+        if word = unique_word then     // O(1) comparison
+            flag_comp ← False          // O(1) assignment
+            break                      // O(1) break out of loop
+    if flag_comp = True then           // O(1) check
+        append word to union_list      // O(1) to append to list
+        union_count ← union_count + 1  // O(1) to update count
 
-    // Calculate Jaccard similarity
-    IF LENGTH(union) IS greater than 0 THEN  
-        // Calculate similarity as the ratio of intersection size to union size
-        SET similarity = LENGTH(intersection) / LENGTH(union)  
-    ELSE  
-        // If the union is empty, set similarity to 0.0 to avoid division by zero
-        SET similarity = 0.0  
-    ENDIF
+// After this loop, union_list contains unique words from text1
 
-    // Return the calculated similarity
-    RETURN similarity  
+intersection_count ← 0                // O(1) to initialize intersection count
+
+for each word in union_list do         // O(k), outer loop over union_list
+    for each compare_word in words2 do  // O(m), inner loop over words in text2
+        if word = compare_word then    // O(1) comparison
+            intersection_count ← intersection_count + 1  // O(1) increment
+            break                      // O(1) to break
+
+// This loop counts the words that appear in both union_list and words2
+
+for each word in words2 do             // O(m) outer loop over words2
+    flag_comp ← True                   // O(1) for each iteration
+    for each unique_word in union_list do  // O(k), inner loop over union_list
+        if word = unique_word then     // O(1) comparison
+            flag_comp ← False          // O(1) assignment
+            break                      // O(1) to break
+    if flag_comp = True then           // O(1) check
+        append word to union_list      // O(1) to append to list
+        union_count ← union_count + 1  // O(1) to update count
+
+// This loop ensures that any unique words from text2 that are not in union_list are added
+
+if union_count = 0 then                // O(1) check
+    return 0.0                         // O(1) return value
+
+return intersection_count / union_count  // O(1) final division and return
