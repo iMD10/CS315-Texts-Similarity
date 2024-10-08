@@ -1,5 +1,4 @@
 # Naive algorithm
-# First Implementation
 import time # To test the execution time of algorithm
 def naive_jaccard_similarity(text1, text2):
     
