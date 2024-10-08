@@ -1,4 +1,4 @@
-![A picture for library](https://thumb.ac-illust.com/f9/f9644141b1635fc76a55be05b982382b_t.jpeg)
+![A picture for library](https://i.pinimg.com/originals/bf/fe/eb/bffeeb6e56305a13708c87d3df45a178.gif)
 # CS315 Algorithm Design and Analysis Project
 
 ## Project Title: Comparing Two Algorithms for Jaccard Similarity
