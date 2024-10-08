@@ -1,30 +1,44 @@
-NAIVE_JACCARD_SIMILARITY(text1, text2) // Has time complexity of O(n+m)
-    words1 ← SPLIT(LOWERCASE(text1))
-    words2 ← SPLIT(LOWERCASE(text2))
+words1 ← text1.lower().split()        // O(n) where n is the number of words in text1
+words2 ← text2.lower().split()        // O(m) where m is the number of words in text2
 
-    set1 ← SET(words1) 
-    set2 ← SET(words2)
+union_list ← []                       // O(1) to initialize empty list
+union_count ← 0                       // O(1) to initialize count
 
-    intersection_count ← 0
+for each word in words1 do            // O(n) outer loop over words in text1
+    flag_comp ← True                  // O(1) for each iteration
+    for each unique_word in union_list do  // O(k), where k is the size of union_list
+        if word = unique_word then     // O(1) comparison
+            flag_comp ← False          // O(1) assignment
+            break                      // O(1) break out of loop
+    if flag_comp = True then           // O(1) check
+        append word to union_list      // O(1) to append to list
+        union_count ← union_count + 1  // O(1) to update count
 
-    FOR word IN set1 DO    
-        FOR compare_word IN set2 DO
-            IF word = compare_word THEN
-                intersection_count ← intersection_count + 1
-            END IF
-        END FOR
-    END FOR
+// After this loop, union_list contains unique words from text1
 
-    union_count ← SIZE(set1) + SIZE(set2)
+intersection_count ← 0                // O(1) to initialize intersection count
 
-    FOR word IN set1 DO
-        IF word ∈ set2 THEN
-            union_count ← union_count - 1
-        END IF
-    END FOR
+for each word in union_list do         // O(k), outer loop over union_list
+    for each compare_word in words2 do  // O(m), inner loop over words in text2
+        if word = compare_word then    // O(1) comparison
+            intersection_count ← intersection_count + 1  // O(1) increment
+            break                      // O(1) to break
 
-    IF union_count = 0 THEN    //To avoid dividing by zero
-        RETURN 0.0
-    END IF
+// This loop counts the words that appear in both union_list and words2
 
-    RETURN intersection_count / union_count
+for each word in words2 do             // O(m) outer loop over words2
+    flag_comp ← True                   // O(1) for each iteration
+    for each unique_word in union_list do  // O(k), inner loop over union_list
+        if word = unique_word then     // O(1) comparison
+            flag_comp ← False          // O(1) assignment
+            break                      // O(1) to break
+    if flag_comp = True then           // O(1) check
+        append word to union_list      // O(1) to append to list
+        union_count ← union_count + 1  // O(1) to update count
+
+// This loop ensures that any unique words from text2 that are not in union_list are added
+
+if union_count = 0 then                // O(1) check
+    return 0.0                         // O(1) return value
+
+return intersection_count / union_count  // O(1) final division and return
