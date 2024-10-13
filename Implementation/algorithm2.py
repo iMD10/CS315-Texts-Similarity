@@ -9,27 +9,27 @@ def optimized_jaccard_similarity(text1, text2):
     word_count2 = {}
 
     # Count occurrences of words in text1
-    for word in words1:                 # O(n)
-        word_count1[word] = word_count1.get(word, 0) + 1  # O(1)
+    for word in words1:                 
+        word_count1[word] = word_count1.get(word, 0) + 1  
 
     # Count occurrences of words in text2
-    for word in words2:                 # O(m)
-        word_count2[word] = word_count2.get(word, 0) + 1  # O(1)
+    for word in words2:                
+        word_count2[word] = word_count2.get(word, 0) + 1  
 
     # Calculate intersection and union sizes
-    intersection_count = 0               # O(1)
-    union_count = len(word_count1) + len(word_count2)  # O(1)
+    intersection_count = 0               
+    union_count = len(word_count1) + len(word_count2)  
 
     # Calculate intersection count
-    for word in word_count1:             # O(n)
-        if word in word_count2:          # O(1)
-            intersection_count += 1      # O(1)
-            union_count -= 1             # O(1)
+    for word in word_count1:             
+        if word in word_count2:         
+            intersection_count += 1     
+            union_count -= 1            
 
     # Return the Jaccard similarity
-    if union_count == 0:                 # O(1)
+    if union_count == 0:                 
         return 0.0
-    return intersection_count / union_count  # O(1)
+    return intersection_count / union_count  
 
 def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
