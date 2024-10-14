@@ -30,7 +30,7 @@ Where:
    - Time complexity: \(O(n^2)\).
 
 2. **Optimized Algorithm**:  
-   - The optimized approach uses more efficient data structures (e.g., hash sets) to reduce the time complexity.
+   - The optimized approach uses more efficient data structures (hashes) to reduce the time complexity.
    - Time complexity: \(O(n)\).
 
 ### Inputs
