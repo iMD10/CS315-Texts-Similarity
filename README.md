@@ -27,11 +27,11 @@ Where:
 ### Algorithms
 1. **Naive Algorithm**:  
    - This algorithm directly computes the union and intersection of two sets of words.
-   - Time complexity: \(O(n*m)\), where \(n\) is the number of words in text A and \(m\) is the number of words in text B.
+   - Time complexity: \(O(n^2)\).
 
 2. **Optimized Algorithm**:  
    - The optimized approach uses more efficient data structures (e.g., hash sets) to reduce the time complexity.
-   - Time complexity: \(O(n+m)\), where \(n\) is the number of words in text A and \(m\) is the number of words in text B.
+   - Time complexity: \(O(n)\).
 
 ### Inputs
 - Two texts (represented as strings or lists of words) for which the similarity is to be calculated.
