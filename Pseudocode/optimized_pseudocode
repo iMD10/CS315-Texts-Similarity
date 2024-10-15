@@ -7,13 +7,13 @@ OPTIMIZED_JACCARD_SIMILARITY(text1, text2)
 
     FOR word IN words1 DO
         IF word ∉ word_count1 THEN
-            word_count1[word] ← True
+            word_count1[word] ← None
         END IF
     END FOR
 
     FOR word IN words2 DO
         IF word ∉ word_count2 THEN
-            word_count2[word] ← True
+            word_count2[word] ← None
         END IF
     END FOR
 
