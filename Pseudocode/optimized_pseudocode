@@ -6,18 +6,14 @@ OPTIMIZED_JACCARD_SIMILARITY(text1, text2)
     word_count2 ← DICTIONARY()
 
     FOR word IN words1 DO
-        IF word ∈ word_count1 THEN
-            word_count1[word] ← word_count1[word] + 1
-        ELSE
-            word_count1[word] ← 1
+        IF word ∉ word_count1 THEN
+            word_count1[word] ← True
         END IF
     END FOR
 
     FOR word IN words2 DO
-        IF word ∈ word_count2 THEN
-            word_count2[word] ← word_count2[word] + 1
-        ELSE
-            word_count2[word] ← 1
+        IF word ∉ word_count2 THEN
+            word_count2[word] ← True
         END IF
     END FOR
 
@@ -27,9 +23,10 @@ OPTIMIZED_JACCARD_SIMILARITY(text1, text2)
     FOR word IN word_count1 DO
         IF word ∈ word_count2 THEN
             intersection_count ← intersection_count + 1
-            union_count ← union_count - 1
         END IF
     END FOR
+
+    union_count ← union_count - intersection_count
 
     IF union_count = 0 THEN
         RETURN 0.0

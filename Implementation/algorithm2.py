@@ -11,24 +11,28 @@ def optimized_jaccard_similarity(text1, text2):
     word_count1 = {}  # Dictionary for word counts in text1
     word_count2 = {}  # Dictionary for word counts in text2
 
-    # Count occurrences of words in text1
+    # Appends only unique words of text1 into word_count1 {}
     for word in words1:                  
-        word_count1[word] = word_count1.get(word, 0) + 1  # Increment word count
+        if word not in word_count1:
+            # Word has not been appended yet, so append it
+            word_count1[word] = True
 
-    # Count occurrences of words in text2
+    # Appends only unique words of text2 into word_count2 {}
     for word in words2:                  
-        word_count2[word] = word_count2.get(word, 0) + 1  # Increment word count
+        if word not in word_count2:
+            # Word has not been appended yet, so append it
+            word_count1[word] = True
 
     # Initialize intersection and union sizes
     intersection_count = 0  # To store the number of common words between both texts
-    union_count = len(word_count1) + len(word_count2)  # Initialize union with sum of words from both texts
+    union_count = len(word_count1) + len(word_count2)  # Initialize union with sum of unique words from both texts
 
     # Calculate the intersection then calculating union
     for word in word_count1:  # Loop through words in text1's word counts
         if word in word_count2:  # If word is common between both texts
             intersection_count += 1  # Increase intersection count
-            
-    # Uinion count is (sum of words from both texts) - intersection_count which yields number of unique words        
+
+    # Uinion count is (sum of unique words from both texts) - intersection_count    
     union_count -= intersection_count 
 
     # Handle case where both sets are empty, preventing division by zero
