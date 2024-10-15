@@ -21,7 +21,7 @@ def optimized_jaccard_similarity(text1, text2):
     for word in words2:                  
         if word not in word_count2:
             # Word has not been appended yet, so append it
-            word_count1[word] = True
+            word_count2[word] = True
 
     # Initialize intersection and union sizes
     intersection_count = 0  # To store the number of common words between both texts
