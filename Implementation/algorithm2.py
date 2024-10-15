@@ -21,13 +21,15 @@ def optimized_jaccard_similarity(text1, text2):
 
     # Initialize intersection and union sizes
     intersection_count = 0  # To store the number of common words between both texts
-    union_count = len(word_count1) + len(word_count2)  # Initialize union with sum of unique words from both texts
+    union_count = len(word_count1) + len(word_count2)  # Initialize union with sum of words from both texts
 
-    # Calculate the intersection and adjust the union size
+    # Calculate the intersection then calculating union
     for word in word_count1:  # Loop through words in text1's word counts
         if word in word_count2:  # If word is common between both texts
             intersection_count += 1  # Increase intersection count
-            union_count -= 1  # Adjust union size by subtracting duplicates
+            
+    # Uinion count is (sum of words from both texts) - intersection_count which yields number of unique words        
+    union_count -= intersection_count 
 
     # Handle case where both sets are empty, preventing division by zero
     if union_count == 0:  
