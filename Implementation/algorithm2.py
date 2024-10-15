@@ -16,16 +16,15 @@ def optimized_jaccard_similarity(text1, text2):
     for word in words2:                 # O(m)
         word_count2[word] = word_count2.get(word, 0) + 1  # O(1)
 
-    # Calculate intersection and union sizes
-    intersection_count = 0               # O(1)
-    union_count = len(word_count1) + len(word_count2)  # O(1)
-
+    # Initilaize intersection count
+    intersection_count = 0               # O(1)  
     # Calculate intersection count
     for word in word_count1:             # O(n)
         if word in word_count2:          # O(1)
             intersection_count += 1      # O(1)
-            union_count -= 1             # O(1)
-
+    # Calaculate Union count        
+    union_count = (len(word_count1) + len(word_count2)) - intersection_count  # O(1)
+    # Unioun = number of all words - intersection      
     # Return the Jaccard similarity
     if union_count == 0:                 # O(1)
         return 0.0
