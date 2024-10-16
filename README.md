@@ -44,11 +44,41 @@ Where:
 - **Analyze the trade-offs** between simplicity (naive approach) and efficiency (optimized approach).
 - **Gain practical experience** in implementing and analyzing algorithms in Python.
 
-### How to Run
+### Files Included:
+- `algorithm1.py`: Contains the naive implementation of Jaccard Similarity.
+- `algorithm2.py`: Contains the optimized implementation of Jaccard Similarity.
+- Sample Text Files:
+  - `smallSample_a.txt`, `smallSample_b.txt`
+  - `mediumSample_a.txt`, `mediumSample_b.txt`
+  - `largeSample_a.txt`, `largeSample_b.txt`
+
+### How to Run:
 1. Clone the repository.
-2. Provide the input texts in `sample_a.txt` and `sample_b.txt`.
-3. Run `algorithm1.py` for the naive algorithm and `algorithm2.py` for the optimized algorithm.
+2. Run `algorithm1.py` to execute the naive Jaccard Similarity algorithm on the text files.
+3. Run `algorithm2.py` to execute the optimized Jaccard Similarity algorithm on the text files.
 4. Compare the results and performance using the provided sample data.
+
+Both scripts will read the input text files and output the Jaccard Similarity score for each pair of text samples.
+
+---
+
+### Handling File Path Issues:
+
+If the script encounters a `FileNotFoundError` or path issue, follow these steps to resolve the problem:
+
+1. **Modify the `base_path` Variable**:
+
+   Open the Python file (`algorithm1.py` or `algorithm2.py`) and locate the variable `base_path`. This variable should hold the directory path where your text files are stored.
+
+   Example:
+   base_path = "C:\\\path\\\to\\\CS315_Project\\\\"  # Insert your actual path here
+
+2. **Leave `base_path` Empty If Not Needed**:
+
+   If your script and the text files are in the same folder, you can leave the `base_path` variable as an empty string:
+
+   base_path = ""
+
 
 ### Contributors
 - **Muhannad Majed Alfwazan**
