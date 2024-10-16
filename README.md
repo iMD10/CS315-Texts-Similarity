@@ -51,6 +51,7 @@ Where:
   - `smallSample_a.txt`, `smallSample_b.txt`
   - `mediumSample_a.txt`, `mediumSample_b.txt`
   - `largeSample_a.txt`, `largeSample_b.txt`
+---
 
 ### How to Run:
 1. Clone the repository.
@@ -60,7 +61,6 @@ Where:
 
 Both scripts will read the input text files and output the Jaccard Similarity score for each pair of text samples.
 
----
 
 ### Handling File Path Issues:
 
@@ -79,7 +79,7 @@ If the script encounters a `FileNotFoundError` or path issue, follow these steps
 
    base_path = ""
 
-
+---
 ### Contributors
 - **Muhannad Majed Alfwazan**
 - **Mohammad Mansour Albulaihy**
