@@ -59,11 +59,16 @@ def testJaccard(address1, address2, type):
     print(f"Optimized Jaccard Similarity for {type} samples: %{similarity_optimized:.2f}")
     print(f"Execution Time : {execution_time:.4f} seconds")
 
+# The path_address variable should contain the full path to the folder where the text files are stored.
+# If the script is in the same folder as the text files, you can leave it empty (path_address = "").
+# Example of setting the path: path_address = "C:\\Users\\YourName\\Documents\\CS315_Project\\"
+base_path = ""
+
 # Testing for large samples
-testJaccard('Implementation/largeSample_a.txt', 'Implementation/largeSample_b.txt', "large")
+testJaccard(base_path + 'largeSample_a.txt',base_path + 'largeSample_b.txt', "large")
 
 # Testing for medium samples
-testJaccard('Implementation/mediumSample_a.txt', 'Implementation/mediumSample_b.txt', "medium")
+testJaccard(base_path + 'mediumSample_a.txt',base_path + 'mediumSample_b.txt', "medium")
 
 # Testing for small samples
-testJaccard('Implementation/smallSample_a.txt', 'Implementation/smallSample_b.txt', "small")
+testJaccard(base_path + 'smallSample_a.txt',base_path + 'smallSample_b.txt', "small")
