@@ -1,10 +1,10 @@
 Text Similarity Project - CS315
 
 ## Group Members:
-1. Muhannad Majed AlFwazan - 431108107
-2. Mohammad Mansour Albulaihy - 431107867
-3. Eyad Fahad Alarfaj - 431107974
-3. Mohammed Saleh AlSaif - 431108031
+1. Muhannad Majed AlFwazan 
+2. Mohammad Mansour Albulaihy 
+3. Eyad Fahad Alarfaj 
+3. Mohammed Saleh AlSaif 
 
 ---
 
