@@ -45,7 +45,7 @@ If the script encounters a `FileNotFoundError` or path issue, follow these steps
    Open the Python file (`algorithm1.py` or `algorithm2.py`) and locate the variable `base_path`. This variable should hold the directory path where your text files are stored.
 
    Example:
-   base_path = "C:\\path\\to\\CS315_Project\\"  # Insert your actual path here
+   base_path = "C:\\\path\\\to\\\CS315_Project\\\"  # Insert your actual path here
 
 2. **Leave `base_path` Empty If Not Needed**:
 
