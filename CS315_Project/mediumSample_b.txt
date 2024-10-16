@@ -1,0 +1,2712 @@
+The Project Gutenberg eBook of Vertebrates from the Barrier Island of Tamaulipas, México
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Vertebrates from the Barrier Island of Tamaulipas, México
+
+Author: Robert K. Selander
+        Richard F. Johnston
+        Gerald G. Raun
+        B. J. Wilks
+
+Release date: November 13, 2011 [eBook #38004]
+
+Language: English
+
+Credits: Produced by Chris Curnow, Joseph Cooper, Diane Monico, and
+        the Online Distributed Proofreading Team at
+        http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK VERTEBRATES FROM THE BARRIER ISLAND OF TAMAULIPAS, MÉXICO ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper, Diane Monico, and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+MUSEUM OF NATURAL HISTORY
+
+Volume 12, No. 7, pp. 309-345, pls. 5-8.
+
+June 18, 1962
+
+Vertebrates from the Barrier Island
+of Tamaulipas, México
+
+BY
+ROBERT K. SELANDER, RICHARD F. JOHNSTON,
+B. J. WILKS, AND GERALD G. RAUN
+
+UNIVERSITY OF KANSAS
+LAWRENCE
+1962
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+MUSEUM OF NATURAL HISTORY
+
+Volume 12, No. 7, pp. 309-345, pls. 5-8.
+
+June 18, 1962
+
+Vertebrates from the Barrier Island
+of Tamaulipas, México
+
+BY
+
+ROBERT K. SELANDER, RICHARD F. JOHNSTON,
+B. J. WILKS, AND GERALD G. RAUN
+
+UNIVERSITY OF KANSAS
+LAWRENCE
+1962
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors: E. Raymond Hall, Chairman, Henry S. Fitch,
+Theodore H. Eaton, Jr.
+
+Volume 12, No. 7, pp. 309-345
+Published June 18, 1962
+
+UNIVERSITY OF KANSAS
+Lawrence, Kansas
+
+PRINTED BY
+JEAN M. NEIBARGER, STATE PRINTER
+TOPEKA, KANSAS
+1962
+
+29-3002
+
+
+
+
+Vertebrates from the Barrier Island of Tamaulipas, México
+
+BY
+
+ROBERT K. SELANDER, RICHARD F. JOHNSTON, B. J. WILKS, and
+GERALD G. RAUN
+
+
+Lying between the Gulf of Mexico and the Laguna Madre de Tamaulipas is
+a narrow barrier island extending from the delta of the Rio Grande
+south for 140 miles to within 185 miles of Tampico, Tamaulipas (Plate
+5). This island, like most of coastal Tamaulipas, has been all but
+neglected by zoological collectors. Consequently, little is known of
+the kinds, distribution, and seasonal status of the vertebrates
+occurring there. The present paper is a report on land vertebrates
+collected and observed on the northern part of the barrier island of
+Tamaulipas from July 6 to 10, 1961. Our collection, which has been
+deposited in the Museum of Natural History, The University of Kansas,
+consists of 63 reptiles, 33 mammals, and 97 birds (58 skins, 19
+skeletons, and 20 alcoholics).
+
+
+
+
+Acknowledgments
+
+
+We are especially indebted to Dr. Charles H. Simpson of Sinton, Texas,
+who generously placed at our disposal his truck, a four-wheel drive
+"Land Rover," without which travel on the island would have been
+difficult. We also acknowledge a loan of field equipment provided by
+Dr. Clarence Cottam, Director of the Welder Wildlife Research
+Foundation, Sinton, Texas.
+
+Financial support for the present research was provided by grants from
+the National Science Foundation to The University of Texas (G 15882)
+and to The University of Kansas (G 10043).
+
+Permits to collect vertebrates in México were supplied by Ing. Luis
+Macias Arellano, El Director General, Departamento de Conservación de
+la Fauna Silves, México, D. F.
+
+We are indebted to Dr. Richard H. Manville for arranging a loan of
+specimens of _Geomys personatus tropicalis_ in the United States
+National Museum. Dr. Marshall Johnston kindly identified specimens of
+plants from the barrier island. Several bones of birds and mammals were
+identified by Dr. Pierce Brodkorb and Dr. E. L. Lundelius. Mr. J. Knox
+Jones identified some of the mammalian material, and Dr. W. E. Duellman
+verified the identifications of the lizards; we thank all of these men
+for their willing assistance.
+
+
+
+
+The Ecological Setting
+
+
+The barrier island of Tamaulipas geologically and ecologically
+resembles Padre Island, of the Gulf coast of lower Texas, north of the
+mouth and delta of the Rio Grande. South of the delta, the island in
+Tamaulipas is a narrow strip of sand less than a mile in average width
+and is broken by a series of narrow inlets or "passes" through which
+water from the Gulf of Mexico mingles with that of the Laguna Madre de
+Tamaulipas. The passes are subject to recurrent opening and closing.
+North of the mouth of the Río Soto la Marina, eight passes are
+designated by local fishermen, but only three, the Third, Fourth, and
+Fifth, were open at the time of our visit.
+
+The Laguna Madre de Tamaulipas is described by Hildebrand (1958) in
+connection with a preliminary study of the fishes and invertebrates
+there. The average depth is probably less than 70 cm. and the waters
+are hypersaline. In the time of the recent drought in Texas and
+northeastern México, salinity varied from 108 to 117 parts per thousand
+in the northern part of the laguna near Arroyo del Tigre (measurements
+taken in March, 1955) to from 39 to 48 parts per thousand in the
+southern part near Punta Piedras (measurements taken in October and
+November, 1953, and in March, 1954). Discussions of the geologic
+history, ecology, and zoogeography of the lagoons of the Gulf coast of
+the United States are given by Hedgpeth (1947; 1953).
+
+Localities in coastal Tamaulipas mentioned in the text of this paper
+are shown on Plate 5.
+
+The principal animal habitats are found in three vegetational
+associations (plates 6 and 7). On flats and low dunes lying between,
+and partly sheltered by, larger active dunes, small clumps of _Croton
+punctatus_ and a sedge (_Fimbristylis castanea_) are the only
+conspicuous plants. Near the western edge of the dunes, _Ipomoea
+pescaprae_ var. _emarginata_ is mixed with _Croton_, and there are
+scattered clumps of shrubby wolf-berry (_Lycium carolinianum_ var.
+_quadrifidum_), and mesquite (_Prosopis juliflora_).
+
+The dunes are relatively stabilized on the western side of the island,
+and there we found moderately dense stands of mesquite trees reaching
+heights of from eight to 10 feet. Prickly-pear cactus (_Opuntia
+lindheimeri_) was common in those stands of mesquite, and we saw an
+occasional yucca tree. A fairly dense ground cover was formed by
+blanket-flower (_Gaillardia pulchella_), marsh-elder (_Iva_ sp.),
+_Flaveria oppositifolia_, _Enstoma exaltatum_, and _Croton capitatus_
+var. _albinoides_.
+
+A more open, xeric expression of the mesquite-cactus vegetation occurs
+on exposed, low clay dunes (see description by Price, 1933) located on
+alkaline flats bordering the laguna. At the time of our visit, most of
+the mesquites in these stands were dead or dying, the cactus was
+abundant, and the ground cover, which was sparse, included drop-seed
+(_Sporobolus virginicus_), ragweed (_Ambrosia psilostachya_), and
+_Commicarpus scandens_.
+
+On alkaline flats flooded by hypersaline waters of the laguna following
+heavy rains, _Batis maritima_ is found in the lower areas, but on the
+slightly elevated areas there is low and almost continuous cover of
+_Monanthochloë littoralis_, in which can be found _Batis_, _Borrichia
+fructescens_, _Salicornia_ sp., _Iva_ sp., and sea-lavender (_Limonium
+carolinianum_).
+
+Near Third Pass, sea oats (_Uniola paniculata_), evening primrose
+(_Oenothera_ sp.), and cordgrass (_Spartina_ sp.) are present on the
+dunes, and on alkaline flats we collected _Conocarpus erectus_,
+_Leucaena_ sp., and _Cassia fasciculata_ var. _ferrisiae_.
+
+
+
+
+Itinerary
+
+
+We reached Washington Beach from Matamoros on July 6, and drove to a
+point approximately 33 miles south on the beach, where we made Camp 1
+on the east side of large dunes 400 yards from the surf. From this camp
+we worked the beach and dunes and also visited alkaline flats adjacent
+to the Laguna Madre. On the afternoon of July 8, we drove south along
+the beach and established Camp 2 on the south side of the Third Pass,
+approximately 73 miles south of Washington Beach. We had intended to go
+farther south but were unable to cross the Fourth Pass, an inlet three
+miles south of the Third Pass. We left the barrier island on the
+afternoon of July 10, after driving north from Camp 2 to the mouth of
+the Rio Grande, 11 miles north of Washington Beach.
+
+Mexican fishermen camped at the Fourth Pass told us that, had we been
+able to cross the Fourth Pass, it would have been possible to drive
+south on the beach all the way to La Pesca, a fishing village near the
+mouth of the Río Soto la Marina, approximately 150 miles south of
+Washington Beach.
+
+
+
+
+Summary of Previous Work in the Area
+
+
+The ornithologist H. E. Dresser (1865-1866) worked in southern Texas
+and at Matamoros, Tamaulipas, in 1863, and on one occasion reached the
+mouth of the Rio Grande ("Boca Grande"). He did not visit the barrier
+island or the Laguna Madre de Tamaulipas.
+
+In their extensive travels through México, E. W. Nelson and E. A.
+Goldman made collections at three localities in the coastal region of
+Tamaulipas but did not reach the barrier island (Goldman, 1951).
+Goldman collected at Altamira, near Tampico, from April 2 to 24, 1898,
+and from May 15 to 20 of the same year both he and Nelson made
+headquarters at Altamira. Nelson and Goldman also collected in the
+vicinity of Soto la Marina, 25 miles from the coast, from March 1 to
+10, 1902, and, from February 13 to 15, they visited Bagdad, described
+by Goldman (1951:260) as "a village at very low elevation on the Río
+Grande about 6 miles above the mouth of the river."
+
+In March, 1950, C. von Wedel and E. R. Hall collected four species of
+mammals and one bird on the barrier island at Boca Jésus María (Eighth
+Pass). A report of this work published by Hall (1951) contains
+descriptions of three new subspecies of mammals from the island.
+
+A few records of birds from the southern end of the barrier island and
+from other parts of coastal Tamaulipas were reported by Robins, Martin,
+and Heed (1951). In 1953, R. R. Graber and J. W. Graber made
+ornithological studies in the vicinity of Tampico and also reached the
+western edge of the Laguna Madre de Tamaulipas. Several papers on this
+work have appeared (Graber and Graber, 1954_a_, 1954_b_; Graber, 1955),
+but a comprehensive account of their observations and specimens was not
+published. Finally, J. R. Alcorn collected some sandpipers 20 miles
+southeast of Matamoros, on August 21, 1954, obtaining the first record
+of the Semipalmated Sandpiper (_Ereunetes pusillus_) in Tamaulipas
+(Thompson, 1958).
+
+
+
+
+Accounts of Species
+
+
+Catalogue numbers in the following accounts are those of the Museum of
+Natural History, The University of Kansas.
+
+
+_Reptiles_
+
+=_Gopherus berlandieri_= Agassiz: Texas Tortoise.--A pelvic girdle and
+complete shell with a few attached scutes (63494) were found in
+stabilized dunes at Camp 1 on July 7, and tracks were seen in the same
+area. Fragments of two other shells (63493, 63495) were found on sand
+flats between active dunes at Camp 1.
+
+=_Holbrookia propinqua propinqua_= Baird and Girard: Keeled Earless
+Lizard.--This lizard was abundant on dunes and in pebble-strewn
+blow-out areas between dunes at Camp 2, but it occurred in smaller
+numbers in the less stabilized dunes of sparser vegetation at Camp 1.
+Breeding was in progress at both localities, as evidenced by the
+presence of eggs in the oviducts of several females, by the heightened
+coloration of both sexes, and by mating behavior.
+
+The mating behavior of this species has not been described in the
+literature, and the following observations, made by Raun at Camp 2 on
+July 8, may be of interest. A male was seen to circle a female as the
+latter remained motionless with tail curved upward and to the side,
+exposing a patch of bright pink-orange color on the ventral surface of
+the tail. At times the male approached the female from the rear and
+slightly to the side, biting the dorsal part of her neck and
+simultaneously attempting to effect intromission. The female several
+times reacted to this approach by running forward a few steps, thereby
+freeing her neck from the grasp of the male. When the male did not
+attempt to approach again, the female appeared to invite copulation by
+moving in front of him with tail elevated and the colored ventral
+surface prominently displayed. At the time of copulation, the male
+mounted from the rear on the right side of the female, grasped her
+neck, and circled his tail beneath her tail; at the same time the
+hindquarters of the female were arched upward.
+
+To confirm the presumed sexes of the two individuals under observation,
+both were collected while in copulation. Examination of the
+still-coupled specimens showed that both hemipenes of the male were
+everted and the left one had been inserted.
+
+Apparently the pink-orange subcaudal patch of females is present only
+in the mating season. It was not present on specimens of this species
+taken by Raun and Wilks on Padre Island, Texas, in autumn, and it is
+not mentioned in taxonomic descriptions by Axtell (1954) and Smith
+(1946).
+
+Measurements of adult specimens in our series indicate that females are
+of smaller average size than males, and, as previously noted by Smith
+(1946:132), females of this species have disproportionately shorter
+tails than do males (Table 1).
+
+_Holbrookia propinqua_ was previously collected on the barrier island
+by Axtell (1954:31; see also Axtell and Wasserman, 1953:2), who took
+specimens at Boca Jésus María, at a locality six to seven miles south
+of Boca Jésus María, and at a point 20 miles east-southeast of
+Matamoros. Axtell (_loc. cit._) also lists specimens in the Museum of
+Zoology, University of Michigan, from Tepehuaje and from one mile north
+of Miramar Beach (Tampico).
+
+Specimens (56): 3 [M] [M] adult, 1 [M] subadult, 63433-436, Camp 1,
+July 7. 33 [M] [M] adult, 63437-440, 63443-445, 63447, 63448,
+63450-456, 63458, 63460, 63462, 63463, 63465-468, 63470-478; 13 [F]
+[F] adult, 63441, 63446, 63449, 63457, 63459, 63469, 63479-485; 6 juv.,
+63442, 63461, 63464, 63486-488; Camp 2, July 9-July 10.
+
+TABLE 1.--MEASUREMENTS IN MILLIMETERS OF ADULT SPECIMENS OF _Holbrookia
+propinqua_ FROM THE BARRIER ISLAND OF TAMAULIPAS
+
+=======+===========+=============+==========+===============
+       |  Number   |             |          |    Ratio:
+  SEX  |    of     | Snout-vent  |   Tail   |  snout-vent
+       | specimens |   length    |  length  |    to tail
+-------+-----------+-------------+----------+---------------
+Male   |    33     | 56.0±0.5[A] | 77.0±0.7 |  0.731±0.001
+       |           |  (49-62)    |  (69-85) | (0.682-0.817)
+-------+-----------+-------------+----------+---------------
+Female |    14     | 50.9±0.5    | 62.2±0.9 |  0.825±0.001
+       |           |  (47-53)    |  (57-68) | (0.735-0.877)
+-------+-----------+-------------+----------+---------------
+
+[Footnote A: Mean ± standard error; range indicated in parentheses.]
+
+=_Cnemidophorus gularis_= Baird and Girard: Whip-tailed Lizard.--At
+both camps we found this species in the same general habitat in which
+_Holbrookia_ occurred, but in numbers decidedly fewer than the latter.
+
+Specimens (4): 2 [F] [F] adult, 63489, 63490, Camp 1, July 7. 1 [M]
+adult, 63491, 1 [F] adult, 63492, Camp 2, July 9.
+
+We failed to take specimens of snakes on the barrier island, but tracks
+of snakes were noted on two occasions in dunes near Camp 1; one trail
+led into a burrow of a kangaroo rat.
+
+
+_Birds_
+
+Unless otherwise indicated, specimens taken were not molting. For birds
+undergoing postnuptial or postjuvenal molt, the degree of advancement
+of the molt is indicated by recording the number of primaries of the
+old plumage that have not been dropped. For example, the designation "4
+P old" signifies that all primaries except the distal four have been
+molted.
+
+Table 2 presents results of a strip census of birds along the strand,
+made by three of us from the moving truck on the morning of July 10.
+Birds characteristically found on sand near the surf were thus
+conveniently counted in accurate fashion. Birds not ordinarily found on
+the strand could not be treated this way; most were considerably less
+abundant than the eight most numerous species listed in Table 2.
+Over-all, the numbers of individuals listed are a good index of
+abundance of the Great Blue Heron and of the common charadriiform birds
+on the beach in early July. The Black Tern is an exception, however,
+and this is discussed in the account of that species on page 327.
+
+TABLE 2.--BIRDS[A] RECORDED ALONG 17 MILES OF BEACH[B] ON THE BARRIER
+ISLAND OF TAMAULIPAS
+
+=====================+=============+================
+       Species       |   Number    | Birds per mile
+---------------------+-------------+----------------
+Great Blue Heron     |           9 |         0.5
+Oyster-catcher       |           1 |         0.1
+Black-bellied Plover |          20 |         1.2
+Wilson Plover        |          53 |         3.1
+Willet               |          43 |         2.5
+Sanderling           |          55 |         3.2
+Laughing Gull        |         136 |         8.0
+Black Tern           |          19 |         1.1
+Caspian Tern         |          82 |         4.8
+Least Tern           |         221 |        13.0
+Royal Tern           |         301 |        17.7
+Cabot Tern           |         122 |         7.2
+                     +-------------+----------------
+                     | Total: 1062 | Total: 62.4
+---------------------+-------------+----------------
+
+[Footnote A: Common Tern, Forster Tern, and Long-billed Curlew also
+seen but not counted.]
+
+[Footnote B: Between 56 and 73 miles south of Washington Beach, 11:00
+to 11:45 a. m., July 10, 1961.]
+
+=_Pelecanus erythrorhynchus_= Gmelin: American White Pelican.--A flock
+of approximately 300 individuals was seen resting at the edge of the
+Laguna Madre near Camp 2 on July 9. When disturbed by gunshots, the
+birds circled high over the laguna and flew to the west. Among bones
+found on sand flats at Camp 1 are a left tarsometatarsus and a pedal
+phalanx of an American White Pelican.
+
+Supposedly the only breeding colony of this species on the northern
+Gulf coast is one in the Laguna Madre near Corpus Christi (Peterson,
+1960:8), but the possibility of one or more such colonies existing in
+northeastern Tamaulipas has been suggested by Amadon and Eckelberry
+(1955:68) on the basis of their observations of individuals seen
+soaring near the coast 15 to 20 miles south of Brownsville on April 15
+and June 5, 1952. According to Hildebrand (1958:153, and personal
+communication, August 14, 1961), small colonies of white pelicans do
+breed in some years on two small islands, in the Laguna Madre of
+Tamaulipas, located at 25° 26´ North and 93° 30´ West.
+
+In Veracruz the species is recorded as a winter visitant and transient
+(Loetscher, 1952:22; Amadon and Eckelberry, 1955:68). Coffey (1960:289)
+reports the following observations for Veracruz and Tamaulipas: a flock
+of 52 between Tlacotalpan and Alvarado, May 29, 1951; 80 near
+Cacaliloa, April 20, 1958; 180 birds north of Alvarado, April 24, 1958;
+four at Altamira, May 28, 1955; flocks of three, 13, and 37 "south" of
+Matamoros, May 20, 1951; 72 at Lomas del Real, November 20, 1956.
+
+=_Pelecanus occidentalis_= Gmelin: Brown Pelican.--Three individuals
+flew north over the surf near Camp 1 on July 7, and a lone bird was
+seen diving into the Gulf a short distance beyond the surf near Camp 2
+on July 9. Birds seen by us probably were of the population named _P.
+o. carolinensis_, which is resident along the Gulf coast (Mexican
+Check-list, 1950:21).
+
+=_Phalacrocorax_= sp.: Cormorant.--From 80 to 100 adult and juvenal
+cormorants were on the laguna at Camp 2 on July 8 and 9. Probably they
+were Common Cormorants (_P. olivaceus_), but, because specimens were
+not taken, we cannot eliminate the possibility that some (or all) were
+Double-crested Cormorants (_P. auritus_). The former breeds in coastal
+lowlands of eastern México, whereas the latter is known in eastern
+México only as a winter visitant and has not been recorded in
+Tamaulipas (Mexican Check-list, 1950:24).
+
+=_Fregata magnificens_= Mathews: Magnificent Man-o'-war Bird.--An
+observation of a lone bird circling high over the laguna at Camp 2 on
+July 9 seemingly constitutes the third record of this species in
+Tamaulipas. Previous records were reported by Robins, Martin, and Heed
+(1951:336), who found "large numbers" in the Barra Trinidad region (8
+miles north of Morón) on April 27 to 29, 1949, and mentioned an
+immature male taken at Tampico on April 23, 1923; this specimen has
+been identified by P. Brodkorb as _F. m. rothschildi_.
+
+=_Ardea herodias_= Linnaeus: Great Blue Heron.--Our records of this
+heron are limited to the following observations: four individuals on
+the beach and seven in the laguna at Camp 1, July 7; one on the beach
+52 miles south of Washington Beach, July 8; one 74 miles south of
+Washington Beach, July 8; two at Third Pass, July 8; 41 standing on
+mud-flats at the edge of the laguna near Camp 2, July 9; nine on the
+beach 56 to 73 miles south of Washington Beach, July 10; one on the
+beach 42 miles south of Washington Beach, July 10.
+
+The status of the Great Blue Heron in coastal Tamaulipas remains to be
+determined. The subspecies _A. h. wardi_ (considered a synonym of _A.
+h. occidentalis_ by Hellmayr and Conover, 1948) is resident and breeds
+on the Gulf coast of Texas and is to be expected as a resident in
+Tamaulipas (Mexican Check-list, 1950:27). The species may breed south
+to Veracruz, where Loetscher (1955:22) reports it is "regular at nearly
+all seasons, chiefly on the coastal plain"; he records an observation
+near Tamós on July 1. The subspecies _A. h. herodias_ and _A. h.
+treganzai_ winter through much of México and have been recorded in
+Tamaulipas (Mexican Check-list, 1950:27).
+
+=_Florida caerulea_= (Linnaeus): Little Blue Heron.--We saw a white
+(immature) individual feeding with Reddish Egrets along an inlet at
+Camp 2 on July 8.
+
+=_Dichromanassa rufescens rufescens_= (Gmelin): Reddish Egret.--This
+egret was recorded only about the inlet at Camp 2, where 15 individuals
+were feeding, either singly or in small groups, on July 8 and 9. We
+noted frequent use of the "Open Wing" method of foraging, as described
+by Meyerriecks (1960:108).
+
+Specimen: [F] juv., 38899, ovary inactive, 587 gm., Camp 2, July 8.
+This specimen is referable to the nominate subspecies, which is
+resident along the Gulf coast. Our record seems to be the first for the
+species in Tamaulipas.
+
+=_Leucophoyx thula_= (Molina): Snowy Egret.--Ten individuals of this
+species were feeding in association with Reddish Egrets in the inlet at
+Camp 2 on July 9.
+
+=_Hydranassa tricolor_= (P. L. S. Müller): Tricolored Heron.--An
+observation of one individual flying along the margin of the laguna
+near Camp 2 is our only record of this species.
+
+=_Nycticorax nycticorax_= (Linnaeus): Black-crowned Night Heron.--This
+heron was found only at the edge of the laguna near Camp 2; ten
+individuals were noted on July 8, and 20 were seen perched in a clump
+of mesquite trees on July 9. Perhaps half the birds seen were in
+juvenal plumage. A juvenile was shot and examined on July 9 but was not
+preserved as a specimen.
+
+There appears to be no definite evidence of breeding by this species in
+Tamaulipas (Mexican Check-list, 1950:32), but such may be expected
+because the species breeds locally in Texas (Peterson, 1960:19) and in
+Veracruz.
+
+=_Ajaia ajaja_= (Linnaeus): Roseate Spoonbill.--On July 9 at Camp 2,
+38 spoonbills flew up from the edge of the laguna where they had been
+resting near a large flock of white pelicans.
+
+=_Cathartes aura_= (Linnaeus): Turkey Vulture.--One Turkey Vulture was
+seen flying east at a point 2 miles west of Washington Beach on July
+10. It is noteworthy that we saw no Yellow-headed Vultures (_C.
+burrovianus_), a species recently recorded in the region of Tampico
+north to Lomas del Real (Graber and Graber, 1954_a_).
+
+=_Colinus virginianus texanus_= (Lawrence): Bob-white.--This species
+was seen only in or near clumps of mesquite near Camp 1, where three
+covies (7, 13, and 18 individuals) were flushed on July 7. Specimen:
+[M] juv., 38900, testis 3 mm., 100 gm., 6 P old, Camp 1, July 7.
+
+=_Porzana carolina_= (Linnaeus): Sora Rail.--On sand flats at Camp 1 we
+found a left humerus and several other post-cranial skeletal elements
+that have been identified by Dr. Pierce Brodkorb as belonging to this
+species. All the bones are of Recent age. We have no other record of
+the Sora Rail on the barrier island, but in all probability it occurs
+as a migrant and winter visitant along margins of the laguna.
+
+=_Haematopus ostralegus_= Linnaeus: Oyster-catcher.--One individual was
+seen at Camp 2 on July 8, three were noted at the same locality on July
+9, and one was present on the beach 72 miles south of Washington Beach
+on July 10. The only previous records of this species in Tamaulipas are
+a specimen ([M], 29348) taken by E. R. Hall 10 miles west and 88 miles
+south of Matamoros on March 20, 1950 (herewith reported for the first
+time), and three seen on the beach near Tepehuaje on May 9, 1949
+(Robins, Martin, and Heed, 1951).
+
+=_Squatarola squatarola_= (Linnaeus): Black-bellied Plover.--Plovers of
+this species were uncommon but regular on the beach; frequently two
+individuals were seen together, sometimes in association with one or
+more Willets. Specimens (4): [M], 38915, testis 4 mm., 231 gm.; [M],
+38914, testis 4 mm., 221 gm.; [M], 38916, testis 3 mm., 209 gm., Camp
+1, July 7. Male, 38917, testis 4 mm., 186 gm., Camp 2, July 9. The
+specimens were molting (3-4 P old) into winter plumage and showed
+little or no subcutaneous fat.
+
+Our specimens and records probably pertain to nonbreeding individuals
+summering on the coast, as the species is known to do in Texas (Hagar
+and Packard, 1952:9) and elsewhere in its range (Eisenmann, 1951:182;
+Haverschmidt, 1955:336; A.O.U. Check-list, 1957:174). In any event,
+our dates (July 6 to 10) are unusually early for autumnal migrants;
+they do not reach Texas until August (Peterson, 1960:94), and Loetscher
+(1955:26) gives August 7 as the earliest date for southbound migrants
+in Veracruz.
+
+=_Charadrius hiaticula semipalmatus_= Bonaparte: Ringed Plover.--We
+have a single record, an adult male (38913, testis 2 × 1 mm., heavy
+fat, 47.0 gm., 4 P old) taken on a sandbar at Camp 2 on July 9. The
+bird was feeding in company with a flock of Sanderlings.
+
+There is no previous record of the Ringed Plover in Tamaulipas. In
+Texas, Hagar and Packard (1952:8) indicate that the first autumnal
+migrants reach the central Gulf coast in the last week of July. In
+coastal México, the species has previously been recorded from August 23
+to May 12 (Mexican Check-list, 1950:91). Therefore, the present record
+must represent an exceptionally early southbound migrant, or, more
+probably, a nonbreeding, summering individual. According to the A.O.U.
+Check-list (1957:166), nonbreeding birds are found in summer in coastal
+areas south to California, Panamá, and Florida. Many individuals spend
+the northern summer along the coast of Surinam (Haverschmidt,
+1955:336).
+
+=_Charadrius wilsonia wilsonia_= Ord: Wilson Plover.--This small plover
+breeds commonly on the beach and on alkaline flats adjacent to the
+laguna. Previous evidence of breeding in Tamaulipas consisted only of a
+report of a male with brood patches and an enlarged testis taken near
+Tamós on May 30, 1947 (Loetscher, 1955:26).
+
+We saw many pairs of adults and a large number of well-grown juveniles,
+and, at a point 4 miles south of Washington Beach, we collected a brood
+of three small juveniles that had only recently hatched. The breeding
+season apparently was drawing to a close, for several adults in our
+collection were in postnuptial molt and showed marked gonadal
+regression. From July 6 to 9, a few small groups of birds were noted,
+but large groups were not seen until July 10, when several flocks of up
+to 60 individuals were found along the coast 3 to 7 miles south of
+Washington Beach.
+
+Specimens (12): [M], 38904, testis 4.5 × 2 mm., 58 gm., 3 P old, brood
+patches refeathering; [M], 38905, testis 5 × 2 mm., 59 gm., 4 P old,
+brood patches refeathering; [M] juv., 38903, 6.2 gm.; 2 sex?, 38901,
+38902, 5.7 and 6.2 gm., 4 miles south of Washington Beach, July 6.
+Male, 38907, testis 5 × 2 mm., 56 gm., 7 P old, brood patches
+refeathering; [F], 38906, ova to 1 mm., 61 gm., 3 P old, brood patches
+refeathering; [F] juv., 38908, ovary inactive, 54 gm., in body molt;
+Camp 1, July 6. Male, 38910, testis 6 × 3 mm., 60 gm., 4 P old; [F],
+38909, ova to 1 mm., 57 gm., 4 P old, brood patches refeathering; Camp
+1, July 8. Male, 38911, testis 2 × 1 mm., 55 gm.; juv., 38912, no
+weight or sex recorded; Camp 2, July 9.
+
+=_Numenius americanus parvus_= Bishop: Long-billed Curlew.--Lone
+individuals and groups of two to five were noted occasionally along the
+beach each day. In total, some 30 to 50 birds were counted, but some
+individuals may have been recorded more than once on different days.
+Specimens (2): [M], 38918, testis 4 mm., some fat, 459 gm., Camp 2,
+July 9; [F], 38933, ova to 1 mm., no weight recorded, Camp 2, July 8.
+
+Our assumption that some or all individuals seen by us were
+nonbreeding, summering birds is supported by the fact that our
+specimens are referable to the small, northwestern subspecies, _N. a.
+parvus_, rather than to _N. a. americanus_; the latter breeds south in
+the eastern United States to south-central Texas (A.O.U. Check-list,
+1957:181). Loetscher (1955:27) saw a flock of 39 curlews near Tamós on
+June 30, and he notes that nonbreeding birds are fairly common at all
+seasons in Veracruz. Similarly, the species is present throughout the
+year on the central Gulf coast of Texas (Hagar and Packard, 1952:8).
+Authors of the Mexican Check-list (1950:94) do not mention the
+possibility that birds of this species recorded in México in July are
+summering rather than migrating. Twelve supposed migrants seen along
+Laguna Chila (Cacalilao), Veracruz, by Coffey (1960:291) on May 31,
+1957, may have been summering birds.
+
+=_Limosa fedoa_= (Linnaeus): Marbled Godwit.--Three were seen in
+shallow waters of the laguna at Camp 2 on July 9. Specimen: [M], 38919,
+testis 6 × 2 mm., fat, 305 gm., 6 P old, Camp 2, July 9. Probably our
+records were of nonbreeding birds, which are known to occur in summer
+elsewhere in México (Mexican Check-list, 1950:94), sparingly in Texas
+(Hagar and Packard, 1952:8), and in South Carolina (A.O.U. Check-list,
+1957:205). Apparently the only record for this species in Veracruz is
+one seen on May 11, 1954, east of Cacalilao (Coffey, 1960:292).
+
+=_Tringa melanoleuca_= (Gmelin): Greater Yellowlegs.--Three birds were
+seen on alkaline flats at Camp 1 on July 7, and two were noted at Camp
+2 on July 9. There is one previous report of this species in
+Tamaulipas, and, since it has been recorded as a migrant and winter
+resident in México between July 26 and April 26 (Mexican Check-list,
+1950:95), our records seem to pertain to unusually early autumnal
+migrants or, possibly, to nonbreeding, summering birds. Other
+mid-summer records are available from Tamós on June 30 and July 1, and
+the species is "to be expected every month of the year" in Veracruz
+(Loetscher, 1955:27). Sight records for Veracruz in May (Coffey,
+1960:291) may well pertain to summering birds. There are
+northern-summer records for this species from Texas (Hagar and Packard,
+1952:8), Surinam (Haverschmidt, 1955:367), and other areas within the
+winter range of this yellowlegs (A.O.U. Check-list, 1957:190).
+
+=_Catoptrophorus semipalmatus semipalmatus_= Gmelin: Willet.--The
+Willet was common on the island. We found evidence of breeding and also
+saw large flocks of birds that were either nonbreeders summering in the
+area or early, postbreeding migrants from more northerly places. All
+along the beach and at the edge of the laguna at both camps we found
+Willets in twos or threes, often accompanied by one or two
+Black-bellied Plovers. On July 10 a small juvenile was captured; two
+adults in breeding plumage evidenced obvious concern at this action. On
+July 6 a flock of 30 birds flew east over Camp 1, and a flock of 90 was
+seen flying south over Camp 1 on July 7.
+
+Specimens (7): [M], 38922, testis 6 × 1 mm., 264 gm., breeding plumage;
+[F], 38923, ova to 2 mm., 269 gm., breeding plumage; [F], 38924, ova to
+1 mm., 280 gm., 3 P old; [F], 38925, ova to 1 mm., 319 gm.; [M], 38921,
+testis 7 × 2 mm., 211 gm., breeding plumage; Camp 1, July 7. Male,
+38927, fat light, 231 gm., 4 P old, Camp 2, July 9. Juvenile, sex not
+recorded, 38920, 43.0 gm., 1 mile south of Washington Beach, July 10.
+Two of our specimens, both males, are in worn breeding plumage and
+evidence no molt; another specimen, a female, is also in breeding
+plumage but is molting on the breast. The remaining two adult skins in
+our series are three-quarters through the molt and are for the most
+part in fresh winter feather.
+
+Dresser (1866:37) took an unspecified number of specimens of the Willet
+at the "Boca Grande" in July and August, but actual breeding in
+Tamaulipas was first established by C. R. Robins, who found a
+"scattered colony of breeding Willets" and took a female with an egg in
+the oviduct on May 9, 1949, near Tepehuaje (Sutton, 1950:135). Sutton
+(_op. cit._) has discussed the characters of this specimen and of birds
+from Cameron County, Texas. The specimen from Tepehuaje reportedly is
+closer to _C. s. inornatus_ than to _C. s. semipalmatus_ both in size
+and color, and birds from Cameron County are intermediate between the
+two subspecies in size but like _C. s. inornatus_ in color.
+
+TABLE 3.--MEASUREMENTS IN MILLIMETERS OF SPECIMENS OF CATOPTROPHORUS
+SEMIPALMATUS FROM THE BARRIER ISLAND OF TAMAULIPAS
+
+=============+======+======+========+========+========
+   SEX AND   |      |      |        |        | Weight
+  CATALOGUE  | Wing | Tail |  Full  | Tarsus |   in
+   NUMBER    |      |      | culmen |        |  grams
+-------------+------+------+--------+--------+--------
+[M] 38921[A] |  197 | 80.6 |  61.0  |  59.0  |   211
+[M] 38922[A] |  198 | 74.4 |  61.9  |  57.9  |   264
+[M] 38927    |  194 | 75.5 |  60.4  |  56.4  |   231
+[F] 38923[A] |  201 | 71.0 |  59.0  |  55.4  |   269
+[F] 38924    |  199 | 71.0 |  61.3  |  59.0  |   280
+-----------+------+------+--------+--------+--------
+
+[Footnote A: Specimens in worn breeding plumage.]
+
+Measurements of our five adults from the barrier island are presented
+in Table 3 for comparison with those of _C. s. semipalmatus_ and _C. s.
+inornatus_ given by Ridgway (1919:316-319). Like the specimens from
+Cameron County examined by Sutton (_op. cit._), our birds are
+intermediate in size between average-sized individuals of the two named
+subspecies. In color and pattern, we find that our specimens in
+breeding plumage fall within the range of variation of _C. s.
+semipalmatus_ as exemplified by five specimens in nearly identical
+states of wear and fading in the Museum of Natural History.
+
+On the basis of the evidence presently available, we are reluctant to
+follow Sutton (1950:136) in assigning breeding birds from the Gulf
+coastal region to _C. s. inornatus_, a name otherwise applied to a
+population of birds breeding inland, in northwestern North America
+south to central Utah and Colorado and east to South Dakota (and
+formerly to western and southeastern Minnesota and Iowa; see A.O.U.
+Check-list, 1957:190). The intermediate characters of birds breeding in
+coastal Texas and Tamaulipas probably represent not the results of
+actual genetic intermixing of the two named populations but, rather, an
+adaptive response of the eastern coastal stock (_C. s. semipalmatus_)
+to environmental modalities distinct from those operating elsewhere
+within the range of the eastern coastal population or on the inland
+population. Accordingly, we tentatively use the name _C. s.
+semipalmatus_ for our Tamaulipan specimens, realizing that the patterns
+of geographic variation in the species do not lend themselves well to
+taxonomic treatment by the trinomial nomenclatural system. The need
+for a comprehensive analysis of geographic variation in this species,
+based, if possible, on proper segregation of age classes along the
+lines followed by Pitelka (1950) for _Limnodromus_, is obviously
+indicated.
+
+PLATE 5
+
+[Illustration: Map of coastal Tamaulipas, showing the barrier island
+and localities mentioned in text. Stippled areas are extensively
+marshy.]
+
+PLATE 6
+
+[Illustration: FIG. 1.--_Croton_ and _Fimbristylis_ on stabilized
+dunes; the Laguna Madre and surrounding alkaline flats and clay dunes
+are visible in the background. Habitat of Road-runner, Ord kangaroo
+rat, and keeled lizard.]
+
+[Illustration: FIG. 2.--Active dune near Camp 1. Other active dunes can
+be seen in the background, in the right foreground is a clump of
+_Croton_, and in the left foreground is a small clump of
+_Fimbristylis_. Habitat of Road-runner, Ord kangaroo rat, and keeled
+lizard.]
+
+=_Arenaria interpres morinella_= (Linnaeus): Turnstone.--Approximately
+40 individuals were noted along the beach from July 6 to 10, mostly in
+small groups; the largest flock included 15 individuals. Specimens (5):
+[M], 38931, testis 4 × 1 mm., moderately fat, 107 gm., 4 P old; [M],
+38932, testis 3 × 1 mm., moderately fat, 103 gm., molting; 75 miles
+south of Washington Beach, July 8. Male, 38928, testis 2 mm., 111 gm.,
+3 P old; [M], 38929, testis 3 mm., moderately fat, 106 gm., 6 P old;
+[M], 38930, testis 2.5 mm., moderately fat, 108 gm., 6 P old; Camp 2,
+July 9.
+
+The only previous record of the Turnstone in Tamaulipas is an
+observation of an unspecified number at Tepehuaje on May 9, 1949
+(Robins, Martin, and Heed, 1951). The dates of our records suggest that
+nonbreeding birds summer along the coast of Tamaulipas. The species is
+present in small numbers in summer along the central Gulf coast of
+Texas (Hagar and Packard, 1952:8). Loetscher (1955:26-27) does not
+report records for Veracruz in summer, but records of the species in
+Yucatán on May 31, 1952 (Paynter, 1955:101), and on June 16, 1900
+(Mexican Check-list, 1950:79), probably represent summering
+nonbreeders. Probably also in the same class are supposed "migrants"
+seen at Coatzacoalcos on May 17, 1954, and June 4, 1955 (Coffey,
+1960:290).
+
+Inasmuch as Haverschmidt (1955:368) reports that nonbreeding birds
+summering in Surinam only occasionally assume breeding plumage, it is
+noteworthy that our specimens were molting from nuptial (summer) to
+winter plumage. None of the nonbreeding northern shorebirds observed by
+Eisenmann (1951:183) in Panamá in summer were in nuptial plumage.
+
+=_Crocethia alba_= (Pallas): Sanderling.--This sandpiper was noted each
+day along the beach, occasionally singly but more frequently in groups
+ranging from 10 to 50 individuals. Specimens (7): [M], 38936, testis 2
+mm., light fat, 49 gm., 5 P old, Camp 1, July 7. Female, 38937, ova to
+1 mm., fat, 58 gm., 4 P old; [M], 38939, fat, no weight recorded, 6 P
+old, breeding plumage; 3 [M] [M], 38940-38942, fat, no weight recorded,
+4-5 P old; Camp 2, July 9.
+
+With one exception as noted, our specimens are in worn, nonbreeding
+plumage and are replacing their old feathers with new ones
+fundamentally the same in color and pattern; the exceptional specimen
+is molting from worn breeding plumage into nonbreeding plumage. Only
+one other individual in breeding feather was seen on the island.
+
+According to the Mexican Check-list (1950:99), the Sanderling has been
+recorded in México from August to May 19. In Texas, Peterson (1960:107)
+reports that it is a migrant, April to June and July to November, and
+that it winters along the coast. We suspect that many of the birds
+present in Texas in June and July, together with those recorded by us
+in Tamaulipas in July, are nonbreeding, summering individuals.
+Haverschmidt (1955:368) reports northern-summer records from Surinam,
+and, according to the A.O.U. Check-list (1957:208), nonbreeding birds
+occur in summer extensively through winter range of the species,
+including the Gulf coast of the United States.
+
+=_Micropalama himantopus_= (Bonaparte): Stilt Sandpiper.--Two birds in
+worn winter plumage were taken as they foraged together at the edge of
+the laguna near Camp 2 on July 9. Specimens (2): [M], 38934, testis 2.5
+mm., heavy fat, 116 gm., 4 P old; [M], 38935, testis 3 mm., fat, 111
+gm., 4 P old.
+
+Our specimens probably were nonbreeding birds summering between the
+breeding range in arctic America and the winter range in northern South
+America. The A.O.U. Check-list (1957:202) does not mention nonbreeding,
+summering records of this species. The 251 birds seen by Coffey
+(1960:292) at Cacalilao, Veracruz, on May 11, 1954, were probably
+migrants.
+
+=_Recurvirostra americana_= Gmelin: American Avocet.--This species was
+seen only in three large flocks flying south along the beach, as
+follows: 56 birds 72 miles south of Washington Beach, July 8; 38 birds
+73 miles south of Washington Beach, July 8; 29 birds 72 miles south of
+Washington Beach, July 10. All birds were in winter plumage.
+
+All these birds were possibly autumnal migrants, but the dates are
+early; the species has not previously been recorded on migration in
+México before August (Mexican Check-list, 1950:101). The species is
+known to breed in San Luis Potosí (Mexican Check-list, _loc. cit._) and
+along the lower coast of Texas ("rarely to Brownsville"; A.O.U.
+Check-list, 1957:209); avocets thus may also breed in coastal
+Tamaulipas.
+
+=_Larus argentatus_= Pontoppidan: Herring Gull.--A first-year bird was
+observed near Camp 2 on July 8, and two subadult individuals were seen
+on the beach between the Third and Fourth passes on July 8.
+
+=_Larus atricilla_= Linnaeus: Laughing Gull.--This gull was common all
+along the beach. Many individuals were in full breeding feather and
+many subadult birds were also present. Specimens (6): [M] subadult,
+38944, testis 5 × 1 mm., 325 gm., molting; [F], 38945, ovary small, 309
+gm., in molt, brood patches refeathering; sex?, 38943, 315 gm., in
+molt; sex? subadult, 38946, 327 gm., in molt; Camp 1, July 7. Female
+subadult (second-year), 38947, 305 gm., in molt, Camp 2, July 8.
+Female, 38926, ova to 2.5 mm., 313 gm., 8 P old, Camp 2, July 10.
+
+The Mexican Check-list (1950:105) refers to the Laughing Gull as a
+common winter resident on both coasts of México from August 7 to May
+17, but Loetscher (1955:29) found it locally common throughout the year
+on the coast of Veracruz, and he mentioned seeing birds a short
+distance south of Tampico in June and July. The status of this gull in
+Tamaulipas remains to be determined; probably it will be found breeding
+locally, but many of the birds summering in eastern México are most
+likely nonbreeders (A.O.U. Check-list, 1957:226).
+
+=_Chlidonias niger surinamensis_= (Gmelin): Black Tern.--On July 6, 7,
+8, 9, and on the morning of July 10, we saw this species only
+occasionally, recording in total not more than 50 individuals. But,
+about noon on July 10, we observed at least 300 birds in compact flocks
+of about 50 individuals each between Washington Beach and a point about
+9 miles south of that locality. Approximately one in ten birds seen was
+in breeding plumage, the rest being in winter or subadult plumages,
+which are indistinguishable in the field. Perhaps some of the birds
+seen were nonbreeding, summering individuals, but we presume that the
+large groups were southbound migrants, and we note that autumnal
+migrants appear in northern Veracruz as early as July 1 (Loetscher,
+1955:30). On the central Gulf coast of Texas, Hagar and Packard
+(1952:9) indicate that an influx of birds occurs in the last week of
+July, and small numbers of birds, presumably nonbreeding individuals,
+are present along the Gulf coast throughout June and July. Dresser
+(1866:45) found this species to be "common at the Boca Grande during
+the summer."
+
+Specimens (2): [M], 38948, testis 6 mm., moderately fat, 68 gm., in
+breeding plumage, Camp 1, July 7. Female, 38949, ovary inactive, 49
+gm., molt into winter feather almost complete, Camp 2, July 10.
+
+=_Hydroprogne caspia_= (Pallas): Caspian Tern.--The only published
+record of the Caspian Tern in Tamaulipas is a report of one seen at
+Lomas del Real on November 20, 1956 (Coffey, 1960:260), but we found it
+moderately common all along the beach and at the margin of the laguna.
+It was frequently associated with the Royal Tern, which outnumbered it
+better than three to one (see Table 2). The species is resident and
+breeds along the coast of Texas, and it probably has similar status in
+Tamaulipas. However, in Veracruz it is known only as a winter visitant
+(Loetscher, 1955:30) and as a spring migrant (Coffey, 1960:293).
+Specimen: [F], 38950, ova to 2 mm., moderately fat, weight not
+recorded, 5 P old, Camp 2, July 9.
+
+=_Sterna hirundo hirundo_= Linnaeus: Common Tern.--We took a specimen
+([M]?, 38951, no fat, 165 gm.), 49 miles south of Washington Beach on
+July 8, and saw two others over the laguna at Camp 2 on July 9. Our
+specimen had nearly finished with molt and feather growth into adult
+winter plumage. The status of Common Terns in Tamaulipas is uncertain;
+our record, and records from Tamós on July 1, 1952, and June 12, 1953
+(Loetscher, 1955:29), probably pertain to nonbreeding, summering birds.
+Yet, the species has bred on the Texas Gulf coast (A.O.U. Check-list,
+1957:235), and it reasonably may be expected to nest in Tamaulipas.
+Coffey (1960:293) saw two individuals at Altamira on May 10, 1954.
+
+=_Sterna forsteri_= Nuttall: Forster Tern.--Six were recorded near Camp
+1 on July 7, and two were seen on the beach on July 6 and 10. The
+Mexican Check-list (1950:108) does not cite records for Tamaulipas, but
+the A.O.U. Check-list (1957:234) includes northern Tamaulipas within
+the breeding range. Evidence suggesting breeding of the species in
+extreme northern Veracruz is reported by Loetscher (1955:29) in the
+form of a female specimen with "ovary greatly enlarged" taken seven
+miles west of Tampico on May 30, 1947. In the same area the species
+also seems to spend the summer as a nonbreeder, for Loetscher (_loc.
+cit._) saw 20, nearly all in nonbreeding plumage, on July 1, 1952.
+
+Specimens (4): [M], 38952, testis 4.5 mm., 150 gm., 8 P old; [M],
+38955, testis 2 mm., 138 gm., 2 P old; [M], 38953, testis 5 × 1 mm.,
+142 gm., 5 P old; [F], 38954, ova to 1 mm., 148 gm., 2 P old; Camp 1,
+July 7.
+
+=_Sterna albifrons antillarum_= (Lesson): Least Tern.--The status of
+this species in Tamaulipas is uncertain, but there is reason to
+believe that it breeds, at least in small numbers. We found the species
+moderately common and generally flying about in twos, possibly mated
+pairs, near both camps and on the beach. Breeding is suggested by the
+large sizes of the testes of the two males collected and by the
+presence of brood patches on a female taken on July 6, but we have no
+direct evidence of nesting in Tamaulipas, and it should be noted that
+this species is known to spend the summer in nonbreeding condition at
+many places (A.O.U. Check-list, 1957:239). Loetscher (1955:30) suggests
+that the species may be found breeding in Veracruz and mentions a
+record of 15 seen at Miramar, Tamaulipas, on June 26, 1952. Dresser
+(1866:45) found it to be "abundant" at the "Boca Grande" in summer.
+
+On July 10, we saw flocks of 15 to 20 individuals flying along the
+beach a few miles south of Washington Beach.
+
+Specimens (4): [M], 38958, testis 11 × 4 mm. (right testis 5 × 4 mm.),
+light fat, 45 gm., 6 P old; [M], 38959, testis 11 × 4 mm. (right testis
+7 × 4 mm.), light fat, 45 gm., 6 P old; [F], 38956, ova to 2.5 mm.,
+42.5 gm., 6 P old, brood patches refeathering; Camp 1, July 6. Female,
+38957, ova to 1 mm., 44 gm., Camp 1, July 7. This last specimen had
+essentially completed the autumnal molt into winter plumage, with only
+a few feathers remaining ensheathed basally.
+
+Our specimens are referable to _S. a. antillarum_, being paler dorsally
+and slightly lighter gray on the hind-neck than specimens of _S. a.
+athalassos_ from Kansas, with which they were compared.
+
+=_Thalasseus maximus maximus_= (Boddaert): Royal Tern.--This species
+was common all along the beach, occurring for the most part in flocks
+of from ten to 50 individuals in association with Cabot Terns. Data on
+gonadal condition and brood patches of some of our specimens suggest
+that breeding occurs in coastal Tamaulipas, as previously reported by
+the Mexican Check-list (1950:110). Robins, Martin, and Heed (1951)
+report seeing one Royal Tern near Tepehuaje on May 9, 1949, and Dresser
+(1866:44) found the species "common at the Boca del Rio Grande during
+the summer."
+
+Specimens (6): [M], 38960, testis 9 × 4.5 mm., not fat, 484 gm., 6 P
+old, brood patches refeathering, 4 miles south of Washington Beach,
+July 6. Male, 38961, testis 7 × 3 mm., 455 gm., no brood patches, 8
+miles south of Washington Beach, July 6. Male, 38962, testis 10 × 5
+mm., 387 gm., brood patches refeathering; [F], 38963, ova to 1 mm., 358
+gm., 3 P old; [F], 38964, ova to 3 mm., 389 gm., 8 P old; Camp 1, July
+7. Female, 38994, ova to 2 mm., 536 gm., brood patches refeathering,
+Camp 2, July 10.
+
+=_Thalasseus sandvicensis acuflavidus_= (Cabot): Cabot Tern.--This tern
+was moderately common along the beach and margin of the laguna, and it
+was seen frequently in company with Royal Terns. Like the latter, this
+tern breeds in coastal Texas (A.O.U. Check-list, 1957:241), and it
+probably also nests in Tamaulipas, although direct evidence is not
+available. The only previous record of this species in Tamaulipas is a
+report (Robins, Martin, and Heed, 1951) of two observed on the beach
+near Tepehuaje on May 9, 1949.
+
+Specimens (4): [M], 38965, testis 9 × 4.5 mm., 208 gm., 9 P old, 49
+miles south of Washington Beach, July 8. Male, 38966, testis 8 × 3 mm.,
+not fat, 192 gm., 8 P old; [F], 38967, ova to 3 mm., 193 gm., 7 P old,
+brood patches refeathering; [F], 38968, ova to 1 mm., 186 gm., 8 P old,
+no brood patches; 52 miles south of Washington Beach, July 8.
+
+=_Rynchops nigra nigra_= Linnaeus: Black Skimmer.--We found this
+species moderately common at the edge of the laguna at both camps and
+occasionally saw it along the beach. Generally two birds, probably
+mated pairs, were seen together; twice birds were seen carrying food in
+their bills, presumably intended for nestlings. The species is known to
+nest in Tamaulipas from "Matamoros Lagoon" south to Tampico (Mexican
+Check-list, 1950:112).
+
+Specimens (2): [M], 38970, testis 40 × 23 mm. (abnormally large,
+possibly as a result of hemorrhage), 418 gm., brood patches
+refeathering; [M], 38969, testis 17 × 4 mm., fat light, 442 gm., brood
+patches refeathering; Camp 1, July 7.
+
+=_Zenaidura macroura_= Linnaeus: Mourning Dove.--Our only record is a
+lone bird seen in a mesquite near Camp 1 on July 6. Possibly the
+species breeds along the margin of the laguna, although Aldrich and
+Duvall (1958:113, map) do not include coastal Tamaulipas in the known
+breeding range. Loetscher (1955:30) suggests that the Mourning Dove may
+be found breeding in the lowlands of northern Veracruz and cites a
+record of one seen at Tamós on July 1, 1952.
+
+=_Geococcyx californianus_= (Lesson): Road-runner.--At least four
+individuals were seen in large dunes at Camp 1 on July 7 and 8. On
+several occasions we watched them pursue lizards (_Holbrookia
+propinqua_) at the margins of clumps of _Croton_ and _Ipomoea_.
+
+=_Chordeiles minor aserriensis_= Cherrie: Nighthawk.--Nighthawks of
+this species were seen regularly at Camp 1, where we flushed them from
+alkaline flats in the day and heard them calling as they foraged over
+the dunes in late afternoon.
+
+Specimens (3): [M], 38971, testis 5 mm., no fat, 62 gm., Camp 1, July
+6. Male, 38972, testis 7.5 mm., no fat, 58 gm.; [M], 38973, testis ?,
+no fat, 53 gm.; Camp 1, July 7. The gonads of these birds were not in
+full breeding condition, but it is highly probable that the birds were
+members of a population that had bred in the area.
+
+Variation in _Chordeiles minor_ in Tamaulipas has recently been studied
+by Graber (1955). Two specimens taken by him on August 3, 1953,
+approximately 9 miles south of Carbonera, resemble birds from Terrell
+County, Texas, and represent _C. m. aserriensis_, as do our three birds
+from the barrier island. Two of Graber's specimens from Lomas del Real,
+in southeastern Tamaulipas, are distinctly darker and probably
+represent _C. m. neotropicalis_, a subspecies subsequently described
+from Chiapas (Selander and Alvarez del Toro, 1955).
+
+=_Muscivora forficata_= (Gmelin): Scissor-tailed Flycatcher.--On July 7
+near Camp 1, two individuals were found in stands of mesquite. One was
+taken and proved to be an adult male (38974, testis 6 × 3 mm., not fat,
+40 gm.) in postnuptial molt (6 P old).
+
+We presume that the two birds recorded by us were members of a
+population breeding on the barrier island, rather than autumnal
+migrants. The Mexican Check-list (1957:69) records this species in
+México only as a transient and winter visitant. But, on the basis of
+records of birds seen along the highway between Matamoros and Ciudad
+Victoria, Davis (1950) has suggested that the species breeds in
+Tamaulipas, and this is supported by a report of one seen at the north
+end of the Monterrey Airport on June 1, 1957 (Coffey, 1960:294). Brown
+(1958) has recently established that the species breeds in Nuevo León
+by finding a nest 33 kilometers (by road) north of Sabinas, Hidalgo, on
+July 19, 1954.
+
+=_Myiarchus cinerascens cinerascens_= (Lawrence): Ash-throated
+Flycatcher.--A juvenal male (38975, testis 2 mm., no fat, 35.0 gm.)
+taken in mesquite at Camp 1 constitutes our only record for this
+species. Lanyon (1961:441, map) has shown that most of Tamaulipas is
+devoid of these flycatchers in the breeding season; the nearest known
+breeding Ash-throated Flycatchers are slightly west of Corpus Christi,
+Texas, about 200 miles north-northwest of Camp 1 on the barrier beach.
+Our specimen closely resembles eight specimens from Coahuila, México,
+in general coloration and, especially, in the pattern of colors on the
+outer rectrices. Probably No. 38975 was from southwestern Texas or
+Coahuila and had begun its southward migration. Against this idea lies
+chiefly the fact that young-of-the-year tend to move south later than
+adults of the same species; so, this bird possibly had been reared in
+coastal Tamaulipas.
+
+=_Eremophila alpestris giraudi_= (Henshaw): Horned Lark.--This species
+occurred in moderate numbers on alkaline flats and almost barren sand
+flats at both camps. At the time of our visit to the island, the
+breeding season apparently was coming to an end, but we noted no
+tendency in the birds to flock.
+
+Specimens (7): [M], 38981, testis 6 mm., 21.0 gm.; [M], 38977, testis
+7.5 × 4 mm., not fat, 27.5 gm.; [M], 38979, testis 11 × 7 mm., 29.0
+gm.; [F], 38976, ova to 3 mm., brood patch vascular but regressing, no
+fat, 24.4 gm.; sex? juv., 38987, no fat, 21.0 gm.; sex? juv., 38980,
+24.0 gm.; Camp 1, July 7. Male, 38982, testis 9.5 × 6 mm., 27.5 gm.,
+Camp 2, July 9.
+
+The subspecies _E. a. giraudi_, which is endemic to the Gulf coastal
+plain of Texas and Tamaulipas, has been reported in Tamaulipas
+previously only from Bagdad, near Matamoros (Mexican Check-list,
+1957:106). The fact that our specimens show characters totally
+consistent with those of _E. a. giraudi_ indicates that there is little
+genetic interchange between the population we sampled and those of _E.
+a. diaphora_, the closest of which reportedly breeds at Miquihana, in
+southwestern Tamaulipas.
+
+=_Corvus cryptoleucus_= Couch: White-necked Raven.--Several groups of
+six to ten birds were present at Washington Beach on July 6 and 10;
+but, southward on the island, we recorded this species only once, on
+July 9, when a lone individual flew near Camp 2, being pursued and
+"buzzed" by two Least Terns. The Mexican Crow (_Corvus imparatus_)
+reportedly is common in the coastal region of Tamaulipas (Mexican
+Check-list, 1957:118) but was not seen by us.
+
+=_Thryomanes bewickii cryptus_= Oberholser: Bewick Wren.--This species
+seemingly breeds in small numbers in mesquite stands near Camp 1, where
+we obtained a juvenile and saw another individual. Specimen: [F] juv.,
+38983, no fat, 10.0 gm., Camp 1, July 8. _T. b. cryptus_ is reported to
+intergrade with _T. b. murinus_ of Veracruz in southern Tamaulipas
+(Mexican Check-list, 1957:160-161).
+
+=_Mimus polyglottos leucopterus_= (Vigors): Northern Mockingbird.--We
+recorded this species only near Camp 1, where a few pairs were breeding
+in stands of mesquite. Males were in full song and territorial display.
+
+Specimens (2): [M], 38985, testis 11 × 7 mm., not fat, 43 gm.; [F],
+38984, ova to 4.5 mm., vascular brood patch, 49.0 gm.; Camp 1, July 7.
+
+PLATE 7
+
+[Illustration: FIG. 1.--Mesquite-cactus formation on clay dune at
+margin of the Laguna Madre west of Camp 1. Habitat of Northern
+Mockingbird, Cardinal, Bob-white, black-tailed jackrabbit, and Great
+Plains woodrat.]
+
+[Illustration: FIG. 2.--_Batis-Monanthochloë_ formation on alkaline
+flats near the Laguna Madre, with mesquite bordering stabilized dunes
+in the left background. _Salicornia_, a classical dominant of salt
+marshes, is here relatively inconspicuous. Habitat of Nighthawk and
+Horned Lark.]
+
+PLATE 8
+
+[Illustration: "Fossilized" burrow of Texas Pocket Gopher in a sandy
+trough between active dunes. A part of the cast has been broken away to
+show the general shape of the old burrow. The diameter of the cast is
+about 3.5 inches.]
+
+=_Cassidix mexicanus prosopidicola_= Lowery: Great-tailed
+Grackle.--Small, postbreeding flocks composed of both adult and juvenal
+birds were seen moving along the edge of the laguna at Camp 1. In the
+morning the flocks flew south, and in the afternoon groups of similar
+size flew north, presumably to a roost at an undetermined distance
+north of our camp. Occasionally, a few birds stopped to rest or to
+forage on the dunes or in stands of mesquite. At Camp 2 on July 9, a
+postbreeding adult female and a well-grown, presumably independent
+juvenile were taken as they perched in a clump of mesquite in which we
+found three old nests of _Cassidix_; two of the nests were about four
+feet apart in one tree, and the third was in another tree 100 feet from
+the first.
+
+Specimens (4): [M] adult, 38988, testis 6 mm., no fat, 209 gm., 6 P
+old, Camp 1, July 7. Female, 38989, ova to 3 mm., fat, 115 gm., old
+brood patch, Camp 1, July 8. Female, 38990, ova to 1 mm., moderate fat,
+107 gm., 7 P old, brood patch refeathering; [M] juv., 38991, testis 3 ×
+1 mm., not fat, 172 gm., 6 P old; Camp 2, July 9.
+
+TABLE 4.--MEASUREMENTS IN MILLIMETERS OF ADULT MALES OF CASSIDIX
+MEXICANUS
+
+=============+=========+=========+=========+===========+============
+             |         |         |         |           | Weight in
+   LOCALITY  |   No.   |  Wing   |  Tail   |  Tarsus   |   grams
+-------------+---------+---------+---------+-----------+------------
+Austin, Texas|17-137[1]|  184.3  |  203.8  |   46.38   | 225.6 June
+             |         |(173-200)|(178-232)|(41.8-50.0)| (204-253)
+             |         |         |         |           | 202.2 July
+             |         |         |         |           | (195-207)
+             |         |         |         |           |
+San Patricio |    5    |  185.2  |  204.2  |   46.74   |   237.6
+Co., Texas[2]|         |(182-188)|(190-219)|(45.1-50.2)| (228-245)
+             |         |         |         |           |
+Barrier Is., |         |         |         |           |
+Tamps.       |    1    |  178    |  185    |   47.1    |   209
+             |         |         |         |           |
+Victoria,    |    4    |  192.2  |  224.2  |   47.77   |   254.3
+Tamps.[3]    |         |(186-200)|(215-232)|(46.0-49.1)| (239-276)
+             |         |         |         |           |
+Tampico,     |         |         |         |           |
+Tamps.[4]    |    1    |  197    |  214    |   48.3    |   260
+             |         |         |         |           |
+Catemaco,    |         |         |         |           |
+Veracruz[5]  |    1    |  193    |  216    |   48.2    |   257
+-------------+---------+---------+---------+-----------+------------
+
+[Footnote 1: Data from Selander (1958: 370, 373). Sample sizes, as
+follows: wing, 137; tail, 119; bill length, 20 (June and July); tarsus,
+133; weight, 17 for June, 3 for July.]
+
+[Footnote 2: June 13, 1961; breeding condition.]
+
+[Footnote 3: May 6, 1961; breeding condition.]
+
+[Footnote 4: May 7, 1961; breeding condition.]
+
+[Footnote 5: November 28, 1959.]
+
+Specimens from the barrier island are clearly referable to _C. m.
+prosopidicola_, showing no approach to the larger and, in the female,
+darker _C. m. mexicanus_ of Veracruz and San Luis Potosí. In Table 4,
+measurements of the adult male from the barrier island may be compared
+with those of specimens of _C. m. prosopidicola_ from Texas and a
+specimen of _C. m. mexicanus_ from Veracruz; it is apparent that our
+specimen is assignable to the former.
+
+Evidence of intergradation between the two subspecies is shown in a
+series of birds collected near Ciudad Victoria, Tamaulipas, in May,
+1961. The females in the series are highly variable in color
+individually, but are on the average paler than _C. m. mexicanus_ from
+Veracruz; the males are distinctly larger than _C. m. prosopidicola_
+from Texas. At Miramar, near Tampico, Tamaulipas, a decided approach to
+_C. m. mexicanus_ is also evident in the dark color of females and in
+the large size of both males (Table 4) and females.
+
+=_Agelaius phoeniceus megapotamus_= Oberholser: Red-winged
+Blackbird.--This species was recorded only at Camp 1 on July 7, when we
+saw two males, one of which was flying south along the edge of the
+dunes in a flock of five Great-tailed Grackles. Specimen: [M], 38992,
+testis 10 × 7 mm., fat, 54 gm., Camp 1, July 7. The large size of the
+testes of this individual indicates breeding condition.
+
+=_Sturnella magna hoopesi_= Stone: Eastern Meadowlark.--Meadowlarks
+were found in small numbers along the margins of the alkaline flats at
+both camps. Breeding was still in progress, for males were singing and
+a female shot on July 9 had only recently laid eggs. Specimens (2):
+[M], 38986, testis 13 × 8 mm., not fat, 102 gm.; [F], 38987, ova to 6
+mm., 3 collapsed follicles, not fat, 88 gm.; Camp 2, July 9.
+
+=_Richmondena cardinalis canicaudus_= Chapman: Cardinal.--This species
+was recorded only in stands of mesquite near Camp 1, as follows: July
+7, two pairs seen, from which a breeding female was taken; July 8,
+three birds seen. Specimen: [F], 38933, edematous brood patch, 36.5
+gm., Camp 1, July 7. Intergrades between the present subspecies and _R.
+c. coccinea_ of Veracruz are reported from Altamira, Tamaulipas
+(Mexican Check-list, 1957:329).
+
+
+_Mammals_
+
+=_Dasypus novemcinctus mexicanus_= Peters: Nine-banded
+Armadillo.--Remains of an armadillo (89017) were found in a mesquite
+thicket in the dunes near Camp 1 on July 7. The bones are not badly
+weathered and were not embedded in sand.
+
+This species has not been recorded previously on the barrier island of
+Tamaulipas, nor, for that matter, on any of the barrier islands on the
+western shore of the Gulf of Mexico.
+
+=_Lepus californicus merriami_= Mearns: Black-tailed Jackrabbit.--From
+two to four individuals were recorded daily in dunes and on alkaline
+flats in the vicinity of stands of mesquite and cactus.
+
+Specimens (2): [F] adult, 89018, pregnant (two embryos, 28 mm. in
+crown-rump length), Camp 1, July 6. Male immature, 89019, Camp 1, July
+7. Our specimens have been compared with two skins of _L. c. curti_
+from the type locality at Eighth Pass, with which they agree reasonably
+well in color. The size of the adult female is about that
+characteristic of other specimens of adult _L. c. curti_, but
+characters of the skull are consistent with those of _L. c. merriami_.
+
+A specimen of this species from Matamoros and several from Brownsville,
+Texas, have been assigned by Hall (1951:43) to _L. c. merriami_.
+Specimens from Padre Island, Texas, reportedly resemble _L. c. curti_
+in smallness of the tympanic bullae but are in other characters
+referable to _L. c. merriami_ (Hall, 1951:44).
+
+=_Spermophilus spilosoma annectens_= (Merriam): Spotted Ground
+Squirrel.--These squirrels were moderately common in dunes at both
+camps. They were heard calling, and many tracks and holes were seen. On
+July 7, at Camp 1, a lactating, adult female (89020) and two dependent
+juveniles (89021, skull only, 89022, skin and skull) were shot at the
+entrance of a burrow; the uterus of the adult showed six placental
+scars.
+
+Our adult specimen has been compared with ten specimens obtained by
+Hall and von Wedel at Eighth Pass in March, 1950; ours differs from the
+ten in being paler and slightly larger. The pallor is perhaps
+attributable to seasonal variation, and the size (246-79-38-7; weight,
+133 gm.) is within limits that would be expected in a larger series of
+the population sampled by Hall and von Wedel. Hall (1951:38) referred
+specimens of this squirrel from Eighth Pass to _S. s. annectens_.
+
+=_Geomys personatus personatus_= True: Texas Pocket Gopher.--This
+pocket gopher was abundant on low, stabilized dunes on the barrier
+island from four to 73 miles south of Washington Beach. One of us
+(Wilks) made a trip down the beach on May 20 and 21, 1961, and
+collected specimens at localities four miles south and 33 miles south
+of Washington Beach; additional specimens were taken at both Camp 1 and
+Camp 2 from July 6 to 10. At these localities the gophers seemed to
+maintain population densities approximating those of _G. personatus_
+on Padre and Mustang islands on the Texan coast.
+
+There is but one other record of the Texas Pocket Gopher from México.
+Goldman (1915) described _G. p. tropicalis_ from Altamira on the basis
+of specimens collected in 1898. Since that time, the species has not
+been reported as occurring south of Cameron County, Texas (Kennerly,
+1954), some 50 miles northwest of the closest station of occurrence of
+the gophers on the barrier beach of Tamaulipas.
+
+Our specimens are slightly smaller than _G. p. personatus_ and slightly
+larger than _G. p. megapotamus_, the subspecies of nearest geographic
+occurrence to the barrier island. The degree to which our specimens
+differ in other respects, such as configuration of the pterygoid, is
+being studied further by Wilks. For the present, reference of our
+material to the nominate subspecies best expresses the relationships of
+these coastal gophers.
+
+The fact that pocket gophers from the Tamaulipan barrier island occupy
+a position geographically intermediate between present Texan
+populations and the isolated population in southern Tamaulipas (_G. p.
+tropicalis_) helps explain the origin of the latter. It is likely that
+_G. p. tropicalis_ represents the southern remnant of a once
+continuously-distributed population of pocket gophers living in coastal
+Tamaulipas in mid-Wisconsin to late Wisconsin time. At that time, sea
+level is thought to have been considerably lower than at present,
+exposing a sandy strip 80 to 100 miles wide off the present coastline.
+Presumably this would have been an area suitable for gophers and for
+southward dispersal of individuals from Texas. The only conceivable
+barrier to dispersal, and thus to a panmictic population, would have
+been the Rio Grande, but over the wide, low and sandy coastal plain the
+river channel almost certainly shifted regularly, thus decreasing its
+effectiveness as a barrier to movement. With subsequent rise in sea
+level, the gophers at Altamira became isolated and have presumably
+remained so for a considerable time. To judge by the marked morphologic
+differentiation of _G. p. tropicalis_, its degree of isolation from
+other populations has been much greater than those of populations
+inhabiting the Tamaulipan barrier island and the barrier islands of the
+coast of Texas. Contact between the latter two populations was probably
+fairly regular before man's stabilization of the channel of the
+lowermost reaches of the Rio Grande.
+
+At Camp 1 we found evidence of the former occurrence of gophers in an
+area now largely covered by active beach dunes. Numerous skeletal parts
+of gophers and "fossilized" burrows (Plate 8) were found on the surface
+where troughs between active dunes reached down to an older, darker,
+and more tightly cemented layer of sand underlying the present dunes.
+It is clear that these gophers were not transported there, because the
+bones were not damaged, some of the skeletons were almost complete, and
+many of the bones were found near the "fossilized" burrows. Weathered
+but well preserved skeletal remains of at least 12 gophers were picked
+up at this site.
+
+Specimens (17): [F], 89023, Camp 1, May 20. 4 [F] [F], 89024-026,
+89029; 3 [M] [M], 89027, 89028, 89030; Camp 1, May 21. Male, 89031,
+Camp 1, July 6. Three [M] [M], 89032, 89035, 89038; 4 [F] [F], 89033,
+89034, 89036, 89037; Camp 2, July 9. Female, 89039, Camp 2, July 10.
+
+=_Perognathus merriami merriami_= Allen: Merriam Pocket Mouse.--An
+individual taken in a trap in the dunes near Camp 2 constitutes the
+first record of this species from the barrier island of Tamaulipas.
+This pocket mouse seems to be uncommon on other barrier islands of the
+western Gulf of Mexico, for there is only one published report of its
+occurrence on Padre Island, Texas (Bailey, 1905:141). Other nearby
+stations of occurrence are Altamira, Tamaulipas (Hall and Kelson,
+1960:477), Brownsville, Texas (Bailey, _loc. cit._), and 17 miles
+northwest of Edinburg, Texas (Blair, 1952:240).
+
+Specimen: sex?, 89040, skull only, Camp 2, July 10.
+
+=_Dipodomys ordii parvabullatus_= Hall: Ord Kangaroo Rat.--We found
+this species uncommon and confined in distribution to dunes, in which
+it was recorded as follows: an adult female was shot and two other
+individuals were seen at night on July 6 at Camp 1; three were trapped
+near Camp 1 on July 7; two were trapped at Camp 2 on July 10.
+
+Specimens (5): [F], 89041, 2 placental scars, 46 gm., Camp 1, July 6.
+Male, 89042, testes scrotal, 47 gm.; [M], 89044, 60 gm.; [F], 89043, 44
+gm.; Camp 1, July 7. Sex?, 89045, skel. only, Camp 2, July 10.
+
+Our material does not differ significantly from specimens obtained by
+Hall and von Wedel at Boca Jésus María in March, 1950, which formed the
+basis for Hall's description (1951:41) of _D. o. parvabullatus_. This
+subspecies is presumably confined in distribution to the barrier island
+of Tamaulipas. Two immature specimens from Bagdad, Tamaulipas, were
+tentatively assigned by Hall (1951:41) to _D. o. compactus_, a
+subspecies known otherwise only from Padre Island, Texas.
+
+=_Neotoma micropus micropus_= Baird: Southern Plains Woodrat.--This
+species was noted only near Camp 1, where numerous houses were seen in
+stands of mesquite and prickly-pear cactus and an adult male (89046,
+330 gm.) was taken on July 6. This species has not been reported
+previously from the barrier island of Tamaulipas. Our specimen is
+referable to the nominate subspecies and shows no approach to _N. m.
+littoralis_, a subspecies known only from the type locality at
+Altamira, Tamaulipas (see map, Hall and Kelson, 1960:684).
+
+=_Procyon lotor_= (Linnaeus): Raccoon.--A weathered skull and a broken
+humerus were found at Camp 2. The skull is being studied by Dr. E. L.
+Lundelius, who informs us that it matches a number of raccoon skulls
+found in archaeological sites along the Balcones Escarpment of Texas.
+Such skulls are larger than skulls of raccoons occurring today in Texas
+(_P. l. fuscipes_) and closely resemble skulls of raccoons (_P. l.
+excelsus_) presently confined in distribution to Idaho, eastern Oregon,
+and eastern Washington. Further details of this situation are to be
+reported elsewhere by Lundelius.
+
+=_Taxidea taxus_= (Schreber): Badger.--Two burrows were found in the
+stabilized dunes near Camp 1, tracks were noted on the alkaline flats,
+and a weathered skull (89047) was found on the flats west of Camp 1 on
+July 7. The skull appears to be of an immature animal, for the sutures
+are not well closed and the teeth show little wear.
+
+Our records require an extension of known range of this species
+southeasterly by approximately 50 miles. The only previous record in
+coastal Tamaulipas is based on two skulls from Matamoros (Schantz,
+1949:301). The skull from the barrier island cannot be determined to
+subspecies but on geographic grounds is referable to _T. t.
+littoralis_, with type locality at Corpus Christi, Texas.
+
+=_Canis_= sp.--Numerous tracks made either by Coyotes (_C. latrans_
+Say) or by domestic dogs were seen in dunes and on the beach at both
+camps. A weathered, posterior part of a canid skull was found in dunes
+at Camp 2 on July 10, and a partial left mandible was taken on the
+beach at Camp 1 on July 6. Unfortunately, specific identification of
+the skull fragments is not possible, but the few reasonably good
+characters that we can use suggest that our material is of domestic
+dogs rather than of Coyotes. Hall (1951:37) found tracks and other
+signs of Coyotes at Eighth Pass but did not take specimens.
+
+Most of the canid scats examined by us contained remains of crabs and
+fishes.
+
+=_Odocoileus virginianus_= (Boddaert): White-tailed Deer.--A weathered
+Recent fragment of a mandible (89048) and part of a femur (89049) of
+this species were found near Camp 1 on July 7, and a metapodal was
+picked up in the dunes at Camp 2 on July 9. This species has not been
+reported previously on the barrier island of Tamaulipas and it probably
+no longer occurs there, for we saw no tracks or other signs of it. Hall
+(1951) did not find it at Eighth Pass.
+
+Our specimens probably pertain to _O. v. texanus_ but are possibly of
+_O. v. veraecrucis_, which has been reported from Soto la Marina
+(Goldman and Kellogg, 1940:89).
+
+The only species of mammal known from the barrier island of Tamaulipas
+that we did not find is the Hispid Cotton Rat (_Sigmodon hispidus_).
+Two specimens of this species trapped near Eighth Pass in March, 1950,
+formed the basis for the description of _S. h. solus_ (Hall, 1951:42),
+a subspecies known only from the type locality.
+
+
+
+
+Discussion
+
+
+The known vertebrate fauna of the barrier island of Tamaulipas consists
+of one species of tortoise, two species of lizards, at least one
+(unidentified) species of snake, 49 species of birds (48 recorded by us
+and the Semipalmated Sandpiper), and 12 species of mammals. This is
+clearly a depauperate fauna, such as is characteristic of islands
+generally, and indicates that the peninsular nature of the northern
+part of the barrier island is of relatively small consequence in
+determining presence or absence of species. It is likely that the
+restricted environmental spectrum is much more important in this regard
+than is the fact of semi-isolation.
+
+Of the 49 species of birds, 10 are known to breed on the island and an
+additional 21 are suspected of breeding either on the island or on
+small islets in the adjacent Laguna Madre de Tamaulipas. Eleven species
+occur on the island as nonbreeding summer residents, about which we
+will have more to say below. Four species have been recorded on the
+island in summer but breed elsewhere, that is to say, they only wander
+over the island (Man-o'-war Bird, Turkey Vulture, _etc._). Two species
+are known only as migrants, and the status of one, the Sora Rail, is
+uncertain. The number of migrant species doubtless will be greatly
+increased by field work at those times when birds migrate.
+
+The avifauna is not depauperate owing to the exclusion of any one of
+the three major zoogeographic stocks thought to be important in the
+development of the present North American avifauna (Mayr, 1946). If we
+examine the breeding passerine birds of the barrier island and the
+breeding passerine assemblage at the same latitude in lowland Sonora
+(Mayr, _loc. cit._) as to their ultimate evolutionary sources, we find
+that for both places somewhat more than half the birds have developed
+from indigenous, North American stocks, about one-third have been
+derived from South American stocks, and one-fifth to one-eighth are
+from Eurasian stocks. It is most unlikely that such close
+correspondence in relative composition of the two avifaunas would occur
+by chance. Thus, we can only conclude that each of the historical avian
+stocks is proportionately restricted in numbers on the barrier island.
+
+Faunistically, the barrier island resembles Padre and Mustang islands
+and the adjacent mainland of Tamaulipas and southern Texas, reflecting
+the relative uniformity of environment in this region. It is apparent
+that there is a faunal "break" or region of transition in the vicinity
+of Tampico, in extreme southeastern Tamaulipas. On the coastal plain,
+many tropical species and subspecies occurring in Veracruz are found
+north to Tampico but fail to extend farther northward to the barrier
+island of northeastern Tamaulipas. Axtell and Wasserman (1953:4-5),
+have already commented on this situation, mentioning a number of snakes
+and lizards that have differentiated subspecifically on opposing sides
+of the Tampican region. They also note that large numbers of the
+lowland Neotropical floral and faunal elements reach their northern
+limits of distribution within the zone of transition around Tampico,
+and, also, many Nearctic elements find their southern distributional
+limits there.
+
+Our small samples of birds and reptiles from the island show no
+detectable morphological differentiation from adjacent populations.
+However, several of the mammals are moderately-well differentiated, but
+the patterns and degrees of geographic variation are such that we can
+only speculate on the historical derivation of the insular populations.
+_Lepus californicus curti_ is presently known only from the barrier
+island of Tamaulipas, but Hall (1951:43) has suggested that it may also
+occur on the adjacent mainland. A resemblance between individuals of
+this subspecies and specimens of _L. c. merriami_ from Padre Island in
+smallness of the tympanic bullae is regarded, probably correctly, by
+Hall (1951:44) as independent development--that is, parallel
+adaptation to similar environmental conditions reaching fullest
+expression on the barrier island of Tamaulipas. As is also true with
+_Geomys personatus_ and _Neotoma micropus_, the barrier island
+population of _Lepus californicus_ shows relationships with animals
+from Texas and northern Tamaulipas (_L. c. merriami_) and no connection
+with (resemblance to) animals from the south (_L. c. altamirae_, known
+only from the type locality at Altamira, near Tampico).
+
+In color and cranial proportions, _Dipodomys ordii parvabullatus_ of
+the barrier island is closer to _D. o. compactus_ of Padre Island than
+to _D. o. sennetti_ of southern Texas and the Tamaulipan mainland. But,
+_D. o. parvabullatus_ resembles _D. o. sennetti_ in external
+measurements (Hall, 1951:39). Possibly _D. o. parvabullatus_ and _D. o.
+compactus_ are phylogentically closer to one another than is either to
+_D. o. sennetti_. It is also possible that each evolved independently
+from a mainland stock represented today by _D. o. sennetti_; the
+resemblance of the two insular populations would thus be a matter of
+convergence in response to like environmental conditions.
+
+_Sigmodon hispidus solus_ is an insular differentiate that probably
+reached the barrier island from the adjacent mainland of Tamaulipas,
+where its apparent closest relative, as judged by morphological
+similarity, now occurs.
+
+_Nonbreeding shorebirds in summer south of breeding ranges._--Certain
+aspects of this subject have already been discussed by Eisenmann
+(1951). As he notes, the phenomenon is more regular and widespread than
+generally has been appreciated. The old idea, that such oversummering
+individuals were "abnormal" or "senile," is totally inadequate,
+especially in view of the frequently large numbers of individuals
+involved.
+
+Eisenmann's suggestion that nonbreeders are immature is probably valid,
+and it is supported by Pitelka's examination of dowitchers (1950:28,
+51). For gulls, which can be aged by characters of plumage, there is no
+question that most nonbreeders are immature. Unfortunately, there are
+few criteria for determination of age in charadriiform birds.
+
+With the possible exception of a specimen of _Limosa fedoa_, none of
+the presumed nonbreeding, oversummering shorebirds collected by us
+showed gonadal enlargement above expected minimal sizes for the
+species. Even so, the season was late at the time when we were on the
+island and most of the birds were molting; it is possible their gonads
+had been enlarged earlier in the season. Behle and Selander (1953) and
+Johnston (1956) have shown that nonbreeding first-, second-, and
+third-year California Gulls (_Larus californicus_) undergo gonadal
+enlargement in summer. Additionally, nonbreeding first-year males of
+certain passerine species (for example, the Brown Jay, _Psilorhinus
+morio_; Selander, 1959) are known to experience partial gonadal
+recrudescence in summer. It would be useful, and would facilitate
+discussion, to have data on gonadal condition of oversummering birds;
+any functional enlargement would be worth documenting.
+
+Some species, notably the Semipalmated Sandpiper, Semipalmated Plover,
+and Black Tern, oversummer as nonbreeders in such large numbers that it
+is obvious that a significant fraction of the total population of the
+species does not breed in any one year. This raises questions
+concerning the possible ecologic situations that would select for delay
+in time of recruitment of young birds into the breeding segment of the
+population, assuming that nonbreeders are immature birds. Delay in
+maturation, or slow rates of maturation, may show general relationship
+to paucity of sites of breeding, as Orians (1961:308) suggests, but the
+shorebirds with which we are dealing breed in regions or in
+habitat-types not characteristically imposing general restriction on
+sites of nesting; more than one answer is necessary for the question
+even at this level. Data on age and numbers of nonbreeders, as well as
+on the ecology of breeding populations, are critical and are badly
+needed for most species.
+
+In any event, species for which we have data demonstrating that they
+regularly oversummer south of their breeding ranges are probably
+adapted to having a part of their populations refrain from breeding
+each year. Whether this phenomenon can be explained solely in terms of
+selection at the level of individual birds (Lack, 1954) or involves
+selection of an adaptive response of the population as a whole
+(Wynne-Edwards, 1955; see also Taylor, 1961, concerning _Rattus_) is a
+problem that cannot be resolved at this time. We may note that the
+species involved ordinarily breed in arctic and subarctic regions, and
+it would seem advantageous (as set forth below) for nonbreeders to
+remain well south of such high latitudes. The numbers of oversummering
+individuals may fluctuate with over-all population density, possibly as
+a result of crude density, but possibly also as a result of emigration
+of individuals in excess of optimal density on breeding grounds (see
+Wynne-Edwards, 1959). One aspect of this phenomenon not explicitly
+discussed by Wynne-Edwards is the possibility that some individuals
+never move north to breeding grounds at all, perhaps as a result of a
+behavioral character genetically-grounded and mediated by delayed
+maturation of the neurohumoral "clock." This certainly would be an
+economical means by which population numbers could be regulated, for
+there would be a saving of energy in that some individuals not only
+would not move north, but also would not participate in the behavioral
+interactions involved in territorial spacing. Occurrence of these birds
+throughout southern North America, Middle America, and northern South
+America may thus reasonably be understood.
+
+
+
+
+LITERATURE CITED
+
+
+ALDRICH, J. W., and DUVALL, A. J.
+
+     1958. Distribution and migration of races of the mourning
+     dove. Condor, 60:108-128.
+
+AMADON, D., and ECKELBERRY, D. R.
+
+     1955. Observations on Mexican birds. Condor, 57:65-80.
+
+AMERICAN ORNITHOLOGISTS' UNION CHECK-LIST COMMITTEE
+
+     1957. Check-list of North American Birds. Lord Baltimore
+     Press, Baltimore, Maryland. xiii-691 pp.
+
+AXTELL, R. W.
+
+     1954. The systematic relationships of certain lizards in two
+     species groups of the genus _Holbrookia_. M. A. Thesis,
+     Department of Zoology, Univ. Texas. 55 pp.
+
+AXTELL, R. W., and WASSERMAN, A. O.
+
+     1953. Interesting herpetological records from southern Texas
+     and northern Mexico. Herpetologica, 9:1-6.
+
+BAILEY, V.
+
+     1905. Biological survey of Texas. North Amer. Fauna,
+     25:1-222.
+
+BAKER, R. H., and LAY, D. W.
+
+     1938. Notes on the mammals of Galveston and Mustang islands,
+     Texas. Jour. Mammal., 19:505.
+
+BEHLE, W. H., and SELANDER, R. K.
+
+     1953. The plumage cycle of the California gull (_Larus
+     californicus_) with notes on color changes of soft parts.
+     Auk, 70:239-260.
+
+BLAIR, W. F.
+
+     1952. Mammals of the Tamaulipan Biotic Province in Texas.
+     Texas Jour. Sci., 4:230-250.
+
+BROWN, J. L.
+
+     1958. A nesting record of the scissor-tailed flycatcher in
+     Nuevo León, México. Condor, 60:193-194.
+
+COFFEY, B. B., JR.
+
+     1960. Late North American spring migrants in Mexico. Auk,
+     77:288-297.
+
+DAVIS, W. B.
+
+     1950. Summer range of the scissor-tailed flycatcher. Condor,
+     52:138.
+
+DRESSER, H. E.
+
+     1865-1866. Notes on the birds of southern Texas. Ibis,
+     1865:312-330; 446-495. Ibis, 1866:23-46.
+
+EISENMANN, E.
+
+     1951. Northern birds summering in Panama. Wilson Bull.,
+     62:181-185.
+
+GOLDMAN, E. A.
+
+     1915. Five new mammals from Mexico and Arizona. Proc. Biol.
+     Soc. Washington, 28:133-138.
+
+     1951. Biological investigations in Mexico. Smithsonian Misc.
+     Coll., no. 4017, 476 pp.
+
+GOLDMAN, E. A., and KELLOGG, R. R.
+
+     1940. Ten new white-tailed deer from North and Middle
+     America. Proc. Biol. Soc. Washington, 53:81-89.
+
+GRABER, R. R.
+
+     1955. The nighthawks of the Tamaulipas coast of México.
+     Condor, 57:125-126.
+
+GRABER, R. R., and GRABER, J. W.
+
+     1954_a_. Yellow-headed vulture in Tamaulipas, México.
+     Condor, 56:165-166.
+
+     1954_b_. Comparative notes on Fuertes and orchard orioles.
+     Condor, 56:274-282.
+
+HAGAR, C. N., and PACKARD, F. M.
+
+     1951. Checklist of the birds of the central coast of Texas.
+     (Privately printed by the authors.)
+
+HALL, E. R.
+
+     1951. Mammals obtained by Dr. Curt von Wedel from the
+     barrier beach of Tamaulipas, Mexico. Univ. Kansas Publ.,
+     Mus. Nat. Hist., 5:33-47.
+
+HALL, E. R., and KELSON, K.
+
+     1960. The mammals of North America. Ronald Press, New York.
+     xxx + 1083 pp.
+
+HAVERSCHMIDT, F.
+
+     1955. North American shore birds in Surinam. Condor,
+     57:366-368.
+
+HEDGPETH, J. W.
+
+     1947. The Laguna Madre of Texas. Trans. Twelfth North Amer.
+     Wildl. Conf., 364-380.
+
+     1953. An introduction to the zoogeography of the
+     northwestern Gulf of Mexico with reference to the
+     invertebrate fauna. Publ. Inst. Marine Sci., Univ. Texas,
+     3:111-224.
+
+HELLMAYR, C. E., and CONOVER, B.
+
+     1948. Catalogue of birds of the Americas.... Field Mus. Nat.
+     Hist., Publ. 615, Zool. Ser., 13 (1), no. 2:vii + 434 pp.
+
+HILDEBRAND, H. H.
+
+     1958. Estudios biológicos preliminares sobre La Laguna Madre
+     de Tamaulipas. Ciencia (Mex.), 17:151-173.
+
+KENNERLY, T. E., JR.
+
+     1954. Local differentiation in the pocket gopher (_Geomys
+     personatus_) in southern Texas. Texas Jour. Sci., 6:297-329.
+
+JOHNSTON, D. W.
+
+     1956. The annual reproductive cycle of the California gull.
+     Condor, 58:138-162; 206-221.
+
+LACK, D.
+
+     1954. The natural regulation of animal numbers. Clarendon
+     Press, Oxford. viii + 343 pp.
+
+LOETSCHER, F. W., JR.
+
+     1955. North American migrants in the state of Veracruz,
+     Mexico: a summary. Auk, 72:14-54.
+
+MAYR, E.
+
+     1946. History of the North American bird fauna. Wilson
+     Bull., 58:3-41.
+
+MEYERRIECKS, A. J.
+
+     1960. Comparative breeding behavior of four species of North
+     American herons. Publ. Nuttall Ornith. Club, no. 2:158 pp.
+
+MEXICAN CHECK-LIST
+
+     1950. Distributional check-list of the birds of Mexico. Part
+     I. Pac. Coast Avif., 29:202 pp.
+
+     1957. Distributional check-list of the birds of Mexico.
+     Part. II. Pac. Coast Avif., 33:436 pp.
+
+ORIANS, G. H.
+
+     1961. The ecology of blackbird (_Agelaius_) social systems.
+     Ecol. Monogr., 31:285-312.
+
+PAYNTER, R. A., JR.
+
+     1955. The ornithogeography of the Yucatán peninsula. Peabody
+     Mus. Nat. Hist., Bull. 9:347 pp.
+
+PETERSON, R. T.
+
+     1960. A field guide to the birds of Texas. Houghton Mifflin
+     Co., Boston. 304 pp.
+
+PITELKA, F. A.
+
+     1950. Geographic variation and the species problem in the
+     shore-bird genus _Limnodromus_. Univ. California Publ.
+     Zool., 50:1-108.
+
+PRICE, W. A.
+
+     1933. Role of diastrophism in topography of Corpus Christi
+     area, south Texas. Bull. Amer. Assoc. Petrol. Geol.,
+     17:907-962.
+
+ROBINS, C. R., MARTIN, P. S., and HEED, W. B.
+
+     1951. Frigate-bird, oystercatcher, upland plover and various
+     terns on the coast of Tamaulipas, México. Wilson Bull.,
+     63:336.
+
+SELANDER, R. K.
+
+     1958. Age determination and molt in the boat-tailed grackle.
+     Condor, 60:355-376.
+
+     1959. Polymorphism in Mexican brown jays. Auk, 76:385-417.
+
+SELANDER, R. K., and ALVAREZ DEL TORO, M.
+
+     1955. A new race of booming nighthawk from southern Mexico.
+     Condor, 57:144-147.
+
+SHANTZ, V. S.
+
+     1949. Three new races of badgers (_Taxidea_) from
+     southwestern United States. Jour. Mammal., 30:301-305.
+
+SMITH, H. M.
+
+     1946. Handbook of lizards. Comstock Publ. Co., Ithaca, New
+     York. 557 pp.
+
+SUTTON, G. M.
+
+     1950. The southern limits of the willet's continental
+     breeding range. Condor, 52:135-136.
+
+TAYLOR, J. M.
+
+     1961. Reproductive biology of the Australian bush rat Rattus
+     assimilis. Univ. California Publ. Zool., 60:1-66.
+
+THOMPSON, M. C.
+
+     1958. Semipalmated sandpiper from Tamaulipas. Wilson Bull.,
+     70:288.
+
+WYNNE-EDWARDS, V. C.
+
+     1955. Low reproductive rates in birds, especially sea-birds.
+     Acta XI Internat. Ornith. Congr., 540-547.
+
+     1959. The control of population-density through social
+     behaviour: a hypothesis. Ibis, 101:436-441.
+
+_Transmitted March 15, 1962._
+
+29-3602
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS MUSEUM OF NATURAL HISTORY
+
+
+Institutional libraries interested in publications exchange may obtain
+this series by addressing the Exchange Librarian, University of Kansas
+Library, Lawrence, Kansas. Copies for individuals, persons working in a
+particular field of study, may be obtained by addressing instead the
+Museum of Natural History, University of Kansas, Lawrence, Kansas.
+There is no provision for sale of this series by the University
+Library, which meets institutional requests, or by the Museum of
+Natural History, which meets the requests of individuals. However, when
+individuals request copies from the Museum, 25 cents should be
+included, for each separate number that is 100 pages or more in length,
+for the purpose of defraying the costs of wrapping and mailing.
+
+* An asterisk designates those numbers of which the Museum's supply
+(not the Library's supply) is exhausted. Numbers published to date, in
+this series, are as follows:
+
+ Vol.  1. Nos. 1-26 and index. Pp. 1-638, 1946-1950.
+
+*Vol.  2. (Complete) Mammals of Washington. By Walter W. Dalquest.
+           Pp. 1-444, 140 figures in text. April 9, 1948.
+
+ Vol.  3. *1. The avifauna of Micronesia, its origin, evolution,
+              and distribution. By Rollin H. Baker, Pp. 1-359, 16
+              figures in text. June 12, 1951.
+
+          *2. A quantitative study of the nocturnal migration of
+              birds. By George H. Lowery, Jr. Pp. 361-472, 47
+              figures in text. June 29, 1951.
+
+           3. Phylogeny of the waxwings and allied birds. By M.
+              Dale Arvey. Pp. 473-530, 49 figures in text, 13
+              tables. October 10, 1951.
+
+           4. Birds from the state of Veracruz, Mexico. By George
+              H. Lowery, Jr., and Walter W. Dalquest. Pp. 531-649,
+              7 figures in text, 2 tables. October 1, 1951.
+
+           Index. Pp. 651-681.
+
+*Vol.  4. (Complete) American weasels. By E. Raymond Hall. Pp. 1-466,
+          41 plates, 31 figures in text. December 27, 1951.
+
+ Vol.  5. Nos. 1-37 and index. Pp. 1-676, 1951-1953.
+
+*Vol.  6. (Complete) Mammals of Utah, _taxonomy and distribution_.
+          By Stephen D. Durrant. Pp. 1-549, 91 figures in text,
+          30 tables. August 10, 1952.
+
+ Vol.  7. *1. Mammals of Kansas. By E. Lendell Cockrum. Pp. 1-303,
+              73 figures in text, 37 tables. August 25, 1952.
+
+           2. Ecology of the opossum on a natural area in
+              northeastern Kansas. By Henry S. Fitch and Lewis L.
+              Sandidge. Pp. 305-338, 5 figures in text. August
+              24, 1953.
+
+           3. The silky pocket mice (Perognathus flavus) of Mexico.
+              By Rollin H. Baker. Pp. 339-347, 1 figure in text.
+              February 15, 1954.
+
+           4. North American jumping mice (Genus Zapus). By Phillip
+              H. Krutzsch. Pp. 349-472, 47 figures in text, 4
+              tables. April 21, 1954.
+
+           5. Mammals from Southeastern Alaska. By Rollin H. Baker
+              and James S. Findley. Pp. 473-477. April 21, 1954.
+
+           6. Distribution of Some Nebraskan Mammals. By J. Knox
+              Jones, Jr. Pp. 479-487. April 21, 1954.
+
+           7. Subspeciation in the montane meadow mouse, Microtus
+              montanus, in Wyoming and Colorado. By Sydney
+              Anderson. Pp. 489-506, 2 figures in text. July 23,
+              1954.
+
+           8. A new subspecies of bat (Myotis velifer) from
+              southeastern California and Arizona. By Terry A.
+              Vaughan. Pp. 507-512. July 23, 1954.
+
+           9. Mammals of the San Gabriel mountains of California.
+              By Terry A. Vaughan. Pp. 513-582, 1 figure in text,
+              12 tables. November 15, 1954.
+
+          10. A new bat (Genus Pipistrellus) from northeastern
+              Mexico. By Rollin H. Baker. Pp. 583-586. November
+              15, 1954.
+
+          11. A new subspecies of pocket mouse from Kansas. By
+              E. Raymond Hall. Pp. 587-590. November 15, 1954.
+
+          12. Geographic variation in the pocket gopher, Cratogeomys
+              castanops, in Coahuila, Mexico. By Robert J. Russell
+              and Rollin H. Baker. Pp. 591-608. March 15, 1955.
+
+          13. A new cottontail (Sylvilagus floridanus) from
+              northeastern Mexico. By Rollin H. Baker. Pp.
+              609-612. April 8, 1955.
+
+          14. Taxonomy and distribution of some American shrews.
+              By James S. Findley. Pp. 613-618. June 10, 1955.
+
+          15. The pigmy woodrat, Neotoma goldmani, its distribution
+              and systematic position. By Dennis G. Rainey and
+              Rollin H. Baker. Pp. 619-624, 2 figures in text.
+              June 10, 1955.
+
+          Index. Pp. 625-651.
+
+ Vol. 8.  Nos. 1-10 and index. Pp. 1-675, 1954-1956.
+
+ Vol. 9.   1. Speciation of the wandering shrew. By James S.
+              Findley. Pp. 1-68, 18 figures in text. December 10,
+              1955.
+
+           2. Additional records and extension of ranges of mammals
+              from Utah. By Stephen D. Durrant, M. Raymond Lee,
+              and Richard M. Hansen. Pp. 69-80. December 10, 1955.
+
+           3. A new long-eared myotis (Myotis evotis) from
+              northeastern Mexico. By Rollin H. Baker and Howard
+              J. Stains. Pp. 81-84. December 10, 1955.
+
+           4. Subspeciation in the meadow mouse, Microtus
+              pennsylvanicus, in Wyoming. By Sydney Anderson.
+              Pp. 85-104, 2 figures in text. May 10, 1956.
+
+           5. The condylarth genus Ellipsodon. By Robert W. Wilson.
+              Pp. 105-116, 6 figures in text. May 19, 1956.
+
+           6. Additional remains of the multituberculate genus
+              Eucosmodon. By Robert W. Wilson. Pp. 117-123, 10
+              figures in text. May 19, 1956.
+
+           7. Mammals of Coahuila, Mexico. By Rollin H. Baker.
+              Pp. 125-335, 75 figures in text. June 15, 1956.
+
+           8. Comments on the taxonomic status of Apodemus
+              peninsulae, with description of a new subspecies
+              from North China. By J. Knox Jones, Jr. Pp. 337-346,
+              1 figure in text, 1 table. August 15, 1956.
+
+           9. Extensions of known ranges of Mexican bats. By
+              Sydney Anderson. Pp. 347-351. August 15, 1956.
+
+          10. A new bat (Genus Leptonycteris) from Coahuila. By
+              Howard J. Stains. Pp. 353-356. January 21, 1957.
+
+          11. A new species of pocket gopher (Genus Pappogeomys)
+              from Jalisco, Mexico. By Robert J. Russell. Pp.
+              357-361. January 21, 1957.
+
+          12. Geographic variation in the pocket gopher, Thomomys
+              bottae, in Colorado. By Phillip M. Youngman. Pp.
+              363-387, 7 figures in text. February 21, 1958.
+
+          13. New bog lemming (genus Synaptomys) from Nebraska.
+              By J. Knox Jones, Jr. Pp. 385-388. May 12, 1958.
+
+          14. Pleistocene bats from San Josecito Cave, Nuevo León,
+              México. By J. Knox Jones, Jr. Pp. 389-396. December
+              19, 1958.
+
+          15. New subspecies of the rodent Baiomys from Central
+              America. By Robert L. Packard. Pp. 397-404. December
+              19, 1958.
+
+          16. Mammals of the Grand Mesa, Colorado. By Sydney
+              Anderson. Pp. 405-414, 1 figure in text, May 20,
+              1959.
+
+          17. Distribution, variation, and relationships of the
+              montane vole, Microtus montanus. By Sydney Anderson.
+              Pp. 415-511, 12 figures in text, 2 tables. August 1,
+              1959.
+
+          18. Conspecificity of two pocket mice, Perognathus
+              goldmani and P. artus. By E. Raymond Hall and
+              Marilyn Bailey Ogilvie. Pp. 513-518, 1 map. January
+              14, 1960.
+
+          19. Records of harvest mice, Reithrodontomys, from
+              Central America, with description of a new subspecies
+              from Nicaragua. By Sydney Anderson and J. Knox Jones,
+              Jr. Pp. 519-529. January 14, 1960.
+
+          20. Small carnivores from San Josecito Cave (Pleistocene),
+              Nuevo León, México. By E. Raymond Hall. Pp. 531-538,
+              1 figure in text. January 14, 1960.
+
+          21. Pleistocene pocket gophers from San Josecito Cave,
+              Nuevo León, México. By Robert J. Russell. Pp.
+              539-548, 1 figure in text. January 14, 1960.
+
+          22. Review of the insectivores of Korea. By J. Knox
+              Jones, Jr., and David H. Johnson. Pp. 549-578.
+              February 23, 1960.
+
+          23. Speciation and evolution of the pygmy mice, genus
+              Baiomys. By Robert L. Packard. Pp. 579-670, 4
+              plates, 12 figures in text. June 16, 1960.
+
+          Index. Pp. 671-690.
+
+ Vol. 10.  1. Studies of birds killed in nocturnal migration. By
+              Harrison B. Tordoff and Robert M. Mengel. Pp. 1-44,
+              6 figures in text, 2 tables. September 12, 1956.
+
+           2. Comparative breeding behavior of Ammospiza caudacuta
+              and A. maritima. By Glen E. Woolfenden. Pp. 45-75,
+              6 plates, 1 figure. December 20, 1956.
+
+           3. The forest habitat of the University of Kansas
+              Natural History Reservation. By Henry S. Fitch and
+              Ronald R. McGregor. Pp. 77-127, 2 plates, 7 figures
+              in text, 4 tables. December 31, 1956.
+
+           4. Aspects of reproduction and development in the
+              prairie vole (Microtus ochrogaster). By Henry S.
+              Fitch. Pp. 129-161, 8 figures in text, 4 tables.
+              December 19, 1957.
+
+           5. Birds found on the Arctic slope of northern Alaska.
+              By James W. Bee. Pp. 163-211, plates 9-10, 1 figure
+              in text. March 12, 1958.
+
+           6. The wood rats of Colorado: distribution and ecology.
+              By Robert B. Finley, Jr. Pp. 213-552, 34 plates, 8
+              figures in text, 35 tables. November 7, 1958.
+
+           7. Home ranges and movements of the eastern cottontail
+              in Kansas. By Donald W. Janes. Pp. 553-572, 4 plates,
+              3 figures in text. May 4, 1959.
+
+           8. Natural history of the salamander, Aneides hardyi.
+              By Richard F. Johnston and Gerhard A. Schad. Pp.
+              573-585. October 8, 1959.
+
+           9. A new subspecies of lizard, Cnemidophorus sacki,
+              from Michoacán, México. By William E. Duellman.
+              Pp. 587-598, 2 figures in text. May 2, 1960.
+
+          10. A taxonomic study of the middle American snake,
+              Pituophis deppei. By William E. Duellman. Pp.
+              599-610, 1 plate, 1 figure in text. May 2, 1960.
+
+          Index. Pp. 611-626.
+
+ Vol. 11.  1. The systematic status of the colubrid snake,
+              Leptodeira discolor Günther. By William E. Duellman.
+              Pp. 1-9, 4 figures. July 14, 1958.
+
+           2. Natural history of the six-lined racerunner,
+              Cnemidophorus sexlineatus. By Henry S. Fitch. Pp.
+              11-62, 9 figures, 9 tables. September 19, 1958.
+
+           3. Home ranges, territories, and seasonal movements of
+              vertebrates of the Natural History Reservation. By
+              Henry S. Fitch. Pp. 63-326, 6 plates, 24 figures in
+              text, 3 tables. December 12, 1958.
+
+           4. A new snake of the genus Geophis from Chihuahua,
+              Mexico. By John M. Legler. Pp. 327-334, 2 figures
+              in text. January 28, 1959.
+
+           5. A new tortoise, genus Gopherus, from north-central
+              Mexico. By John M. Legler. Pp. 335-343. April 24,
+              1959.
+
+           6. Fishes of Chautauqua, Cowley and Elk counties,
+              Kansas. By Artie L. Metcalf. Pp. 345-400, 2 plates,
+              2 figures in text, 10 tables. May 6, 1959.
+
+           7. Fishes of the Big Blue river basin, Kansas. By W. L.
+              Minckley. Pp. 401-442, 2 plates, 4 figures in text,
+              5 tables. May 8, 1959.
+
+           8. Birds from Coahuila, México. By Emil K. Urban. Pp.
+              443-516. August 1, 1959.
+
+           9. Description of a new softshell turtle from the
+              southeastern United States. By Robert G. Webb.
+              Pp. 517-525, 2 plates, 1 figure in text. August
+              14, 1959.
+
+          10. Natural history of the ornate box turtle, Terrapene
+              ornata ornata Agassiz. By John M. Legler. Pp.
+              527-669, 16 pls., 29 figures in text. March 7, 1960.
+
+          Index Pp. 671-703.
+
+ Vol. 12.  1. Functional morphology of three bats: Eumops, Myotis,
+              Macrotus. By Terry A. Vaughan. Pp. 1-153, 4 plates,
+              24 figures in text. July 8, 1959.
+
+           2. The ancestry of modern Amphibia: a review of the
+              evidence. By Theodore H. Eaton, Jr. Pp. 155-180, 10
+              figures in text. July 10, 1959.
+
+           3. The baculum in microtine rodents. By Sydney Anderson.
+              Pp. 181-216, 49 figures in text. February 19, 1960.
+
+           4. A new order of fishlike Amphibia from the Pennsylvanian
+              of Kansas. By Theodore H. Eaton, Jr., and Peggy Lou
+              Stewart. Pp. 217-240, 12 figures in text. May 2, 1960.
+
+           5. Natural history of the bell vireo. By Jon C. Barlow.
+              Pp. 241-296, 6 figures in text. March 7, 1962.
+
+           6. Two new pelycosaurs from the lower Permian of
+              Oklahoma. By Richard C. Fox. Pp. 297-307, 6 figures
+              in text. May 21, 1962.
+
+           7. Vertebrates from the barrier island of Tamaulipas,
+              México. By Robert K. Selander, Richard F. Johnston,
+              B. J. Wilks, and Gerald G. Raun. Pp. 309-345, pls.
+              5-8. June 18, 1962.
+
+              More numbers will appear in volume 12.
+
+ Vol. 13.  1. Five natural hybrid combinations in minnows
+              (Cyprinidae). By Frank B. Cross and W. L. Minckley.
+              Pp. 1-18. June 1, 1960.
+
+           2. A distributional study of the amphibians of the
+              Isthmus of Tehuantepec, México. By William E.
+              Duellman. Pp. 19-72, pls. 1-8, 3 figures in text.
+              August 16, 1960.
+
+           3. A new subspecies of the slider turtle (Pseudemys
+              scripta) from Coahuila, México. By John M. Legler.
+              Pp. 73-84, pls. 9-12, 3 figures in text. August 16,
+              1960.
+
+           4. Autecology of the copperhead. By Henry S. Fitch.
+              Pp. 85-288, pls. 13-20, 26 figures in text. November
+              30, 1960.
+
+           5. Occurrence of the garter snake, Thamnophis sirtalis,
+              in the Great Plains and Rocky Mountains. By Henry S.
+              Fitch and T. Paul Maslin. Pp. 289-308, 4 figures in
+              text. February 10, 1961.
+
+           6. Fishes of the Wakarusa river in Kansas. By James E.
+              Deacon and Artie L. Metcalf. Pp. 309-322, 1 figure
+              in text. February 10, 1961.
+
+           7. Geographic variation in the North American cyprinid
+              fish, Hybopsis gracilis. By Leonard J. Olund and
+              Frank B. Cross. Pp. 323-348, pls. 21-24, 2 figures
+              in text. February 10, 1961.
+
+           8. Descriptions of two species of frogs, genus
+              Ptychohyla; studies of American hylid frogs, V. By
+              William E. Duellman. Pp. 349-357, pl. 25, 2
+              figures in text. April 27, 1961.
+
+           9. Fish populations, following a drought, in the Neosho
+              and Marais des Cygnes rivers of Kansas. By James
+              Everett Deacon. Pp. 359-427, pls. 26-30, 3 figs.
+              August 11, 1961.
+
+          10. Recent soft-shelled turtles of North America (family
+              Trionychidae). By Robert G. Webb. Pp. 429-611, pls.
+              31-54, 24 figures in text. February 16, 1962.
+
+          Index in press.
+
+ Vol. 14.  1. Neotropical bats from western México. By Sydney
+              Anderson. Pp. 1-8. October 24, 1960.
+
+           2. Geographic variation in the harvest mouse,
+              Reithrodontomys megalotis, on the central Great
+              Plains and in adjacent regions. By J. Knox Jones,
+              Jr., and B. Mursaloglu. Pp. 9-27, 1 figure in text.
+              July 24, 1961.
+
+           3. Mammals of Mesa Verde National Park, Colorado. By
+              Sydney Anderson. Pp. 29-67, pls. 1 and 2, 3 figures
+              in text. July 24, 1961.
+
+           4. A new subspecies of the black myotis (bat) from
+              eastern Mexico. By E. Raymond Hall and Ticul
+              Alvarez. Pp. 69-72, 1 figure in text. December 29,
+              1961.
+
+           5. North American yellow bats, "Dasypterus," and a
+              list of the named kinds of the genus Lasiurus Gray.
+              By E. Raymond Hall and J. Knox Jones, Jr.
+              Pp. 73-98, 4 figures in text. December 29, 1961.
+
+           6. Natural history of the brush mouse (Peromyscus
+              boylii) in Kansas with description of a new
+              subspecies. By Charles A. Long. Pp. 99-111, 1 figure
+              in text. December 29, 1961.
+
+           7. Taxonomic status of some mice of the Peromyscus
+              boylii group in eastern Mexico, with description of
+              a new subspecies. By Ticul Alvarez. Pp. 113-120,
+              1 figure in text. December 29, 1961.
+
+           8. A new subspecies of ground squirrel (Spermophilus
+              spilosoma) from Tamaulipas, Mexico. By Ticul
+              Alvarez. Pp. 121-124. March 7, 1962.
+
+           9. Taxonomic status of the free-tailed bat, Tadarida
+              yucatanica Miller. By J. Knox Jones, Jr., and Ticul
+              Alvarez. Pp. 125-133, 1 figure in text. March 7,
+              1962.
+
+          10. A new doglike carnivore, genus Cynarctus, from the
+              Clarendonian Pliocene, of Texas. By E. Raymond Hall
+              and Walter W. Dalquest. Pp. 135-138, 2 figures in
+              text. April 30, 1962.
+
+          11. A new subspecies of wood rat (Neotoma) from
+              northeastern Mexico. By Ticul Alvarez. Pp. 139-143.
+              April 30, 1962.
+
+          12. Noteworthy mammals from Sinaloa, Mexico. By J. Knox
+              Jones, Jr., Ticul Alvarez, and M. Raymond Lee. Pp.
+              145-159, 1 figure in text. May 18, 1962.
+
+          13. A new bat (Myotis) from Mexico. By E. Raymond Hall.
+              Pp. 161-164, 1 figure in text. May 21, 1962.
+
+              More numbers will appear in volume 14.
+
+ Vol. 15.  1. The amphibians and reptiles of Michoacán, México.
+              By William E. Duellman. Pp. 1-148, pls. 1-6, 11
+              figures in text. December 20, 1961.
+
+           2. Some reptiles and amphibians from Korea. By Robert
+              G. Webb, J. Knox Jones, Jr., and George W. Byers.
+              Pp. 149-173. January 31, 1962.
+
+           3. A new species of frog (Genus Tomodactylus) from
+              western México. By Robert G. Webb. Pp. 175-181,
+              1 figure in text. March 7, 1962.
+
+              More numbers will appear in volume 15.
+
+       *       *       *       *       *
+
+
+Transcriber's Notes
+
+
+The University of Kansas Publications list was placed at the end of
+this publication.
+
+Original spelling and accent inconsistencies have been retained.
+
+[M] represents the male symbol used in the original publication.
+
+[F] represents the female symbol used in the original publication.
+
+Italicized text is represented by _underscores_.
+
+Bold text is represented by =equal signs=.
+
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK VERTEBRATES FROM THE BARRIER ISLAND OF TAMAULIPAS, MÉXICO ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
