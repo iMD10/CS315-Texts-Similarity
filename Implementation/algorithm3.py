@@ -2,16 +2,12 @@
 # This is the fastest i could get the algorithm to be, avg time of algorithm2 was (0.0349)seconds, but this algorithm(3) avg time is (0.0309)seconds.
 # Indecating approximately 11.49% improvement
 import time  # To measure the execution time of the algorithm
-
 def optimized_jaccard_similarity2(text1, text2):
-    
-    # Tokenize the texts and convert to lowercase for case insensitivity
-    words1 = text1.lower().split()  
-    words2 = text2.lower().split()
 
+    # Tokenize the texts and convert to lowercase for case insensitivity
     # Use sets to only store unique words
-    word_set1 = set(words1)  # set of words in text1
-    word_set2 = set(words2)  # set for words in text2
+    word_set1 = set(text1.lower().split())  # set of words in text1
+    word_set2 = set(text2.lower().split())  # set for words in text2
     
     # calaculate intersection
     intersection_count = len(word_set1.intersection(word_set2))  # To store the number of common words between both texts
