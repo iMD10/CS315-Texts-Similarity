@@ -81,7 +81,7 @@ If the script encounters a `FileNotFoundError` or path issue, follow these steps
 
 ---
 ### Contributors
-- **Muhannad Majed Alfwazan**
-- **Mohammad Mansour Albulaihy**
-- **Eyad Fahad Alarfaj**
-- **Mohammed Saleh Alsaif**
+- **Muhannad Alfwazan**
+- **Mohammad Albulaihy**
+- **Eyad Alarfaj**
+- **Mohammed Alsaif**

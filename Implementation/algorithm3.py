@@ -1,9 +1,10 @@
 # Better Optimized Jaccard Similarity Algorithm
-# This is the fastest i could get the algorithm to be, avg time of algorithm2 was (0.0349)seconds, but this algorithm(3) avg time is (0.0309)seconds.
-# Indecating approximately 11.49% improvement
+# This is the fastest i could get the algorithm to be, avg time of algorithm2 was (0.0349)seconds, but this algorithm(3) avg time is (0.0299)seconds.
+# Indecating approximately 14.32% improvement
 import time  # To measure the execution time of the algorithm
-def optimized_jaccard_similarity2(text1, text2):
 
+def optimized_jaccard_similarity2(text1, text2):
+    
     # Tokenize the texts and convert to lowercase for case insensitivity
     # Use sets to only store unique words
     word_set1 = set(text1.lower().split())  # set of words in text1

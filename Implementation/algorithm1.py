@@ -17,7 +17,7 @@ def naive_jaccard_similarity(text1, text2):
         for unique_word in union_list:
             if word == unique_word: # If it is already in union then don't put it in the list
                 flag_comp = False
-                break;
+                break
         if flag_comp == True: # If it's not in union list then put it and increase the counter
             union_list.append(word)
             union_count += 1
@@ -36,7 +36,7 @@ def naive_jaccard_similarity(text1, text2):
         for unique_word in union_list: 
             if word == unique_word: # If it's already in union then skip it
                 flag_comp = False
-                break;
+                break
         if flag_comp == True: # If it's not found in union list then put it in union list and increase counter
             union_list.append(word)
             union_count += 1
@@ -67,7 +67,7 @@ def testJaccard(address1, address2, type):
 # The path_address variable should contain the full path to the folder where the text files are stored.
 # If the script is in the same folder as the text files, you can leave it empty (path_address = "").
 # Example of setting the path: path_address = "C:\\Users\\YourName\\Documents\\CS315_Project\\"
-base_path = ""
+base_path = "Implementation/"
 
 # Testing for large samples
 testJaccard(base_path + 'largeSample_a.txt',base_path + 'largeSample_b.txt', "large")
