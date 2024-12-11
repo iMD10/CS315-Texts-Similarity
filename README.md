@@ -81,7 +81,17 @@ If the script encounters a `FileNotFoundError` or path issue, follow these steps
 
 ---
 ### Contributors
-- **Muhannad Alfwazan**
-- **Mohammad Albulaihy**
-- **Eyad Alarfaj**
-- **Mohammed Alsaif**
+
+This project was collaboratively developed by:
+- **Muhannad Majed**  
+  GitHub: [@iMD10](https://github.com/iMD10)
+
+- **Mohammed Saleh**  
+  GitHub: [@rayq-q](https://github.com/rayq-q)
+
+- **Mohammed Mansour**  
+  GitHub: [@MrM3ROF](https://github.com/MrM3ROF)
+
+- **Eyad Fahad**  
+  GitHub: [@commando-xxt](https://github.com/commando-xxt)
+
